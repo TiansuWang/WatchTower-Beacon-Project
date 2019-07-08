@@ -1,0 +1,109 @@
+# NetScript
+# 
+# Exported from PCB2_SHIELD.sch at 10/3/18 16:36
+# 
+# EAGLE Version 9.2.0 Copyright (c) 1988-2018 Autodesk, Inc.
+# 
+Change Class 0;
+Signal 'GND'      'C1'       '2' \
+                  'C2'       '2' \
+                  'MS1'      '4' \
+                  'U1'       '1' \
+                  'U1'       '10' \
+                  'U1'       '11' \
+                  'U1'       '12' \
+                  'U1'       '2' \
+                  'U1'       '20' \
+                  'U1'       '22' \
+                  'U1'       '3' \
+                  'U1'       '4' \
+                  'U1'       '5' \
+                  'U2'       '1' \
+                  'U2'       '10' \
+                  'U2'       '11' \
+                  'U2'       '12' \
+                  'U2'       '2' \
+                  'U2'       '20' \
+                  'U2'       '22' \
+                  'U2'       '3' \
+                  'U2'       '4' \
+                  'U2'       '5' \
+                  'U3'       '2' \
+                  'USB1'     'GND' \
+                  ;
+Change Class 0;
+Signal 'N$1'      'MS1'      '9' \
+                  'U1'       '19' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'MS1'      '11' \
+                  'U1'       '18' \
+                  'U2'       '18' \
+                  ;
+Change Class 0;
+Signal 'N$3'      'MS1'      '12' \
+                  'U1'       '17' \
+                  'U2'       '17' \
+                  ;
+Change Class 0;
+Signal 'N$4'      'MS1'      '13' \
+                  'U1'       '16' \
+                  'U2'       '16' \
+                  ;
+Change Class 0;
+Signal 'N$5'      'MS1'      '19' \
+                  'U1'       '15' \
+                  ;
+Change Class 0;
+Signal 'N$6'      'MS1'      '20' \
+                  'U1'       '14' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'MS1'      '21' \
+                  'U1'       '13' \
+                  ;
+Change Class 0;
+Signal 'N$8'      'MS1'      '8' \
+                  'U1'       '8' \
+                  ;
+Change Class 0;
+Signal 'N$9'      'MS1'      '25' \
+                  'U2'       '8' \
+                  ;
+Change Class 0;
+Signal 'N$10'     'MS1'      '24' \
+                  'U2'       '13' \
+                  ;
+Change Class 0;
+Signal 'N$11'     'MS1'      '23' \
+                  'U2'       '14' \
+                  ;
+Change Class 0;
+Signal 'N$12'     'MS1'      '22' \
+                  'U2'       '15' \
+                  ;
+Change Class 0;
+Signal 'N$13'     'R1'       '2' \
+                  'U3'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$14'     'MS1'      '10' \
+                  'U2'       '19' \
+                  ;
+Change Class 0;
+Signal 'N$15'     'C1'       '1' \
+                  'R1'       '1' \
+                  'SW'       '2' \
+                  'U3'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$17'     'SW'       '1' \
+                  'USB1'     'VBUS' \
+                  ;
+Change Class 0;
+Signal 'VCC'      'C2'       '1' \
+                  'MS1'      '2' \
+                  'U1'       '9' \
+                  'U2'       '9' \
+                  'U3'       '5' \
+                  ;

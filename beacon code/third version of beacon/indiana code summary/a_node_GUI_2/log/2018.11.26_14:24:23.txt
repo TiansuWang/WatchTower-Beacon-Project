@@ -1,0 +1,116 @@
+14:24:52->send configuration:
+14:24:52->ID:0
+14:24:52->Destination:253
+14:24:52->incomming packeage...
+14:24:52->get configure reply:
+14:24:52->ID:0
+14:24:52->DEST:253
+14:24:58->send long echo to 0
+14:24:58->incomming packeage...
+14:24:58->************************************
+14:24:58->get report from:0
+14:24:58->find node 0
+14:24:58->hop:0
+14:24:58->latitude:0.000000
+14:24:58->longtitude:0.000000
+14:24:58->Passed?:0
+14:24:58->max algorithm time:0:0:0
+14:24:58->mid algorithm time:0:0:0
+14:25:3->send out DONE message
+14:26:50->send configuration:
+14:26:50->ID:1
+14:26:50->Destination:0
+14:26:51->incomming packeage...
+14:26:51->get configure reply:
+14:26:51->ID:1
+14:26:51->DEST:0
+14:27:25->send echo
+14:27:25->120
+14:27:25->incomming packeage...
+14:27:25->Reading buffer:
+14:27:25->done.
+14:27:25->SNR:58 dB
+14:27:25->Rssi:-96 dBm
+14:27:25->clearing IRQ flags...
+14:27:25->done
+14:27:25->getting IRQ status...
+14:27:25->Done.
+14:27:25->Successful reset IRQ.
+14:27:25->0 1 69 67 72 
+14:27:25->packet_dest_ID:0
+14:27:25->packet_type:ECH
+14:27:25->setting RX...
+14:27:25->Done.
+14:27:26->incomming packeage...
+14:27:26->Reading buffer:
+14:27:26->done.
+14:27:26->SNR:57 dB
+14:27:26->Rssi:-121 dBm
+14:27:26->clearing IRQ flags...
+14:27:26->done
+14:27:26->getting IRQ status...
+14:27:26->Done.
+14:27:26->Successful reset IRQ.
+14:27:26->1 0 66 65 67 0 
+14:27:26->packet_dest_ID:1
+14:27:26->packet_type:BAC
+14:27:26->setting RX...
+14:27:26->Done.
+14:27:26->incomming packeage...
+14:27:26->echo success.
+14:27:26->GPS fix:0
+14:27:37->send long echo to 1
+14:27:38->incomming packeage...
+14:27:38->************************************
+14:27:38->get report from:1
+14:27:38->find node 1
+14:27:38->hop:0
+14:27:38->latitude:0.000000
+14:27:38->longtitude:0.000000
+14:27:38->Passed?:0
+14:27:38->max algorithm time:0:0:0
+14:27:38->mid algorithm time:0:0:0
+14:27:42->send out DONE message
+14:28:9->send configuration:
+14:28:9->ID:2
+14:28:9->Destination:1
+14:28:9->incomming packeage...
+14:28:9->get configure reply:
+14:28:9->ID:2
+14:28:9->DEST:1
+14:28:16->send echo
+14:28:16->120
+14:28:17->incomming packeage...
+14:28:17->Reading buffer:
+14:28:17->done.
+14:28:17->SNR:58 dB
+14:28:17->Rssi:-109 dBm
+14:28:17->clearing IRQ flags...
+14:28:17->done
+14:28:17->getting IRQ status...
+14:28:17->Done.
+14:28:17->Successful reset IRQ.
+14:28:17->2 1 66 65 67 0 
+14:28:17->packet_dest_ID:2
+14:28:17->packet_type:BAC
+14:28:17->setting RX...
+14:28:17->Done.
+14:28:17->incomming packeage...
+14:28:17->echo success.
+14:28:17->GPS fix:0
+14:30:40->send out DONE message
+14:30:45->reconfigure 2
+14:30:46->incomming packeage...
+14:30:46->Unlock node 2 to reconfigure
+14:30:51->send long echo to 2
+14:30:51->incomming packeage...
+14:30:51->************************************
+14:30:51->get report from:2
+14:30:51->find node 2
+14:30:51->hop:0
+14:30:51->latitude:0.000000
+14:30:51->longtitude:0.000000
+14:30:51->Passed?:0
+14:30:51->max algorithm time:0:0:0
+14:30:51->mid algorithm time:0:0:0
+14:31:55->send out DONE message

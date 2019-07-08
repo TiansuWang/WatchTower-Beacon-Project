@@ -1,0 +1,10 @@
+17:33:32->send out DONE message
+17:33:46->send configuration:
+17:33:46->ID:2
+17:33:46->Destination:1
+17:33:47->send configuration:
+17:33:47->ID:2
+17:33:47->Destination:1
+17:33:48->send configuration:
+17:33:48->ID:2
+17:33:48->Destination:1

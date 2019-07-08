@@ -1,0 +1,3339 @@
+0:44:39->send configuration:
+0:44:39->ID:10
+0:44:39->Destination:9
+0:44:39->incomming packeage...
+0:44:39->get configure reply:
+0:44:39->ID:10
+0:44:39->DEST:9
+0:45:0->send configuration:
+0:45:0->ID:9
+0:45:0->Destination:8
+0:45:1->incomming packeage...
+0:45:1->get configure reply:
+0:45:1->ID:9
+0:45:1->DEST:8
+0:45:3->send configuration:
+0:45:3->ID:9
+0:45:3->Destination:8
+0:45:4->incomming packeage...
+0:45:4->get configure reply:
+0:45:4->ID:9
+0:45:4->DEST:8
+0:45:14->send configuration:
+0:45:14->ID:10
+0:45:14->Destination:9
+0:45:14->incomming packeage...
+0:45:14->get configure reply:
+0:45:14->ID:10
+0:45:14->DEST:9
+0:45:17->send echo
+0:45:17->120
+0:45:17->incomming packeage...
+0:45:17->Reading buffer:
+0:45:17->done.
+0:45:17->SNR:56 dB
+0:45:17->Rssi:0 dBm
+0:45:17->clearing IRQ flags...
+0:45:17->done
+0:45:17->getting IRQ status...
+0:45:17->Done.
+0:45:17->Successful reset IRQ.
+0:45:17->9 10 69 67 72 
+0:45:17->packet_dest_ID:9
+0:45:17->packet_type:ECH
+0:45:17->setting RX...
+0:45:17->Done.
+0:45:17->incomming packeage...
+0:45:17->Reading buffer:
+0:45:17->done.
+0:45:17->SNR:57 dB
+0:45:17->Rssi:-114 dBm
+0:45:17->clearing IRQ flags...
+0:45:17->done
+0:45:17->getting IRQ status...
+0:45:17->Done.
+0:45:17->Successful reset IRQ.
+0:45:17->10 9 66 65 67 0 
+0:45:17->packet_dest_ID:10
+0:45:17->packet_type:BAC
+0:45:17->setting RX...
+0:45:17->Done.
+0:45:17->incomming packeage...
+0:45:17->echo success.
+0:45:17->GPS fix:0
+0:45:22->send out DONE message
+0:48:5->send configuration:
+0:48:5->ID:4
+0:48:5->Destination:3
+0:48:5->incomming packeage...
+0:48:5->get configure reply:
+0:48:5->ID:4
+0:48:5->DEST:3
+0:48:21->reconfigure 4
+0:48:21->incomming packeage...
+0:48:21->Unlock node 4 to reconfigure
+0:49:54->send long echo to 10
+0:49:55->incomming packeage...
+0:49:55->Reading buffer:
+0:49:55->done.
+0:49:55->SNR:58 dB
+0:49:55->Rssi:-95 dBm
+0:49:55->clearing IRQ flags...
+0:49:55->done
+0:49:55->getting IRQ status...
+0:49:55->Done.
+0:49:55->Successful reset IRQ.
+0:49:55->4 5 65 67 75 
+0:49:55->packet_dest_ID:4
+0:49:55->packet_type:ACK
+0:49:55->setting RX...
+0:49:55->Done.
+0:49:55->incomming packeage...
+0:49:55->Reading buffer:
+0:49:55->done.
+0:49:55->SNR:58 dB
+0:49:55->Rssi:-94 dBm
+0:49:55->clearing IRQ flags...
+0:49:55->done
+0:49:55->getting IRQ status...
+0:49:55->Done.
+0:49:55->Successful reset IRQ.
+0:49:55->6 5 76 69 67 10 4 1 
+0:49:55->packet_dest_ID:6
+0:49:55->packet_type:LEC
+0:49:55->setting RX...
+0:49:55->Done.
+0:49:56->incomming packeage...
+0:49:56->Reading buffer:
+0:49:56->done.
+0:49:56->SNR:58 dB
+0:49:56->Rssi:-93 dBm
+0:49:56->clearing IRQ flags...
+0:49:56->done
+0:49:56->getting IRQ status...
+0:49:56->Done.
+0:49:56->Successful reset IRQ.
+0:49:56->7 6 76 69 67 10 4 2 
+0:49:56->packet_dest_ID:7
+0:49:56->packet_type:LEC
+0:49:56->setting RX...
+0:49:56->Done.
+0:49:57->incomming packeage...
+0:49:57->Reading buffer:
+0:49:57->done.
+0:49:57->SNR:57 dB
+0:49:57->Rssi:-118 dBm
+0:49:57->clearing IRQ flags...
+0:49:57->done
+0:49:57->getting IRQ status...
+0:49:57->Done.
+0:49:57->Successful reset IRQ.
+0:49:57->6 7 65 67 75 
+0:49:57->packet_dest_ID:6
+0:49:57->packet_type:ACK
+0:49:57->setting RX...
+0:49:57->Done.
+0:49:57->incomming packeage...
+0:49:57->Reading buffer:
+0:49:57->done.
+0:49:57->SNR:57 dB
+0:49:57->Rssi:-117 dBm
+0:49:57->clearing IRQ flags...
+0:49:57->done
+0:49:57->getting IRQ status...
+0:49:57->Done.
+0:49:57->Successful reset IRQ.
+0:49:57->8 7 76 69 67 10 4 3 
+0:49:57->packet_dest_ID:8
+0:49:57->packet_type:LEC
+0:49:57->setting RX...
+0:49:57->Done.
+0:49:57->incomming packeage...
+0:49:57->Reading buffer:
+0:49:57->done.
+0:49:57->SNR:57 dB
+0:49:57->Rssi:-115 dBm
+0:49:57->clearing IRQ flags...
+0:49:57->done
+0:49:57->getting IRQ status...
+0:49:57->Done.
+0:49:57->Successful reset IRQ.
+0:49:57->7 8 65 67 75 
+0:49:57->packet_dest_ID:7
+0:49:57->packet_type:ACK
+0:49:57->setting RX...
+0:49:57->Done.
+0:49:58->incomming packeage...
+0:49:58->Reading buffer:
+0:49:58->done.
+0:49:58->SNR:57 dB
+0:49:58->Rssi:-114 dBm
+0:49:58->clearing IRQ flags...
+0:49:58->done
+0:49:58->getting IRQ status...
+0:49:58->Done.
+0:49:58->Successful reset IRQ.
+0:49:58->9 8 76 69 67 10 4 4 
+0:49:58->packet_dest_ID:9
+0:49:58->packet_type:LEC
+0:49:58->setting RX...
+0:49:58->Done.
+0:49:58->incomming packeage...
+0:49:58->Reading buffer:
+0:49:58->done.
+0:49:58->SNR:57 dB
+0:49:58->Rssi:-123 dBm
+0:49:58->clearing IRQ flags...
+0:49:58->done
+0:49:58->getting IRQ status...
+0:49:58->Done.
+0:49:58->Successful reset IRQ.
+0:49:58->8 9 65 67 75 
+0:49:58->packet_dest_ID:8
+0:49:58->packet_type:ACK
+0:49:58->setting RX...
+0:49:58->Done.
+0:49:59->incomming packeage...
+0:49:59->Reading buffer:
+0:49:59->done.
+0:49:59->SNR:57 dB
+0:49:59->Rssi:-122 dBm
+0:49:59->clearing IRQ flags...
+0:49:59->done
+0:49:59->getting IRQ status...
+0:49:59->Done.
+0:49:59->Successful reset IRQ.
+0:49:59->10 9 76 69 67 10 4 5 
+0:49:59->packet_dest_ID:10
+0:49:59->packet_type:LEC
+0:49:59->setting RX...
+0:49:59->Done.
+0:49:59->incomming packeage...
+0:49:59->Reading buffer:
+0:49:59->done.
+0:49:59->SNR:58 dB
+0:49:59->Rssi:-101 dBm
+0:49:59->clearing IRQ flags...
+0:49:59->done
+0:49:59->getting IRQ status...
+0:49:59->Done.
+0:49:59->Successful reset IRQ.
+0:49:59->9 10 65 67 75 
+0:49:59->packet_dest_ID:9
+0:49:59->packet_type:ACK
+0:49:59->setting RX...
+0:49:59->Done.
+0:49:59->incomming packeage...
+0:49:59->Reading buffer:
+0:49:59->done.
+0:49:59->SNR:58 dB
+0:49:59->Rssi:-102 dBm
+0:49:59->clearing IRQ flags...
+0:49:59->done
+0:49:59->getting IRQ status...
+0:49:59->Done.
+0:49:59->Successful reset IRQ.
+0:49:59->9 10 76 69 66 10 4 6 215 163 112 61 236 27 67 64 92 143 194 245 140 129 85 64 0 0 0 0 0 0 0 
+0:49:59->packet_dest_ID:9
+0:49:59->packet_type:LEB
+0:49:59->setting RX...
+0:49:59->Done.
+0:50:0->incomming packeage...
+0:50:0->Reading buffer:
+0:50:0->done.
+0:50:0->SNR:57 dB
+0:50:0->Rssi:-122 dBm
+0:50:0->clearing IRQ flags...
+0:50:0->done
+0:50:0->getting IRQ status...
+0:50:0->Done.
+0:50:0->Successful reset IRQ.
+0:50:0->10 9 65 67 75 
+0:50:0->packet_dest_ID:10
+0:50:0->packet_type:ACK
+0:50:0->setting RX...
+0:50:0->Done.
+0:50:0->incomming packeage...
+0:50:0->Reading buffer:
+0:50:0->done.
+0:50:0->SNR:57 dB
+0:50:0->Rssi:-122 dBm
+0:50:0->clearing IRQ flags...
+0:50:0->done
+0:50:0->getting IRQ status...
+0:50:0->Done.
+0:50:0->Successful reset IRQ.
+0:50:0->8 9 76 69 66 10 4 6 215 163 112 61 236 27 67 64 92 143 194 245 140 129 85 64 0 0 0 0 0 0 0 
+0:50:0->packet_dest_ID:8
+0:50:0->packet_type:LEB
+0:50:0->setting RX...
+0:50:0->Done.
+0:50:1->incomming packeage...
+0:50:1->Reading buffer:
+0:50:1->done.
+0:50:1->SNR:57 dB
+0:50:1->Rssi:-114 dBm
+0:50:1->clearing IRQ flags...
+0:50:1->done
+0:50:1->getting IRQ status...
+0:50:1->Done.
+0:50:1->Successful reset IRQ.
+0:50:1->9 8 65 67 75 
+0:50:1->packet_dest_ID:9
+0:50:1->packet_type:ACK
+0:50:1->setting RX...
+0:50:1->Done.
+0:50:1->incomming packeage...
+0:50:1->Reading buffer:
+0:50:1->done.
+0:50:1->SNR:57 dB
+0:50:1->Rssi:-115 dBm
+0:50:1->clearing IRQ flags...
+0:50:1->done
+0:50:1->getting IRQ status...
+0:50:1->Done.
+0:50:1->Successful reset IRQ.
+0:50:1->7 8 76 69 66 10 4 6 215 163 112 61 236 27 67 64 92 143 194 245 140 129 85 64 0 0 0 0 0 0 0 
+0:50:1->packet_dest_ID:7
+0:50:1->packet_type:LEB
+0:50:1->setting RX...
+0:50:1->Done.
+0:50:2->incomming packeage...
+0:50:2->Reading buffer:
+0:50:2->done.
+0:50:2->SNR:57 dB
+0:50:2->Rssi:-118 dBm
+0:50:2->clearing IRQ flags...
+0:50:2->done
+0:50:2->getting IRQ status...
+0:50:2->Done.
+0:50:2->Successful reset IRQ.
+0:50:2->8 7 65 67 75 
+0:50:2->packet_dest_ID:8
+0:50:2->packet_type:ACK
+0:50:2->setting RX...
+0:50:2->Done.
+0:50:2->incomming packeage...
+0:50:2->Reading buffer:
+0:50:2->done.
+0:50:2->SNR:57 dB
+0:50:2->Rssi:-118 dBm
+0:50:2->clearing IRQ flags...
+0:50:2->done
+0:50:2->getting IRQ status...
+0:50:2->Done.
+0:50:2->Successful reset IRQ.
+0:50:2->6 7 76 69 66 10 4 6 215 163 112 61 236 27 67 64 92 143 194 245 140 129 85 64 0 0 0 0 0 0 0 
+0:50:2->packet_dest_ID:6
+0:50:2->packet_type:LEB
+0:50:2->setting RX...
+0:50:2->Done.
+0:50:3->incomming packeage...
+0:50:3->Reading buffer:
+0:50:3->done.
+0:50:3->SNR:58 dB
+0:50:3->Rssi:-93 dBm
+0:50:3->clearing IRQ flags...
+0:50:3->done
+0:50:3->getting IRQ status...
+0:50:3->Done.
+0:50:3->Successful reset IRQ.
+0:50:3->6 5 65 67 75 
+0:50:3->packet_dest_ID:6
+0:50:3->packet_type:ACK
+0:50:3->setting RX...
+0:50:3->Done.
+0:50:4->incomming packeage...
+0:50:4->Reading buffer:
+0:50:4->done.
+0:50:4->SNR:58 dB
+0:50:4->Rssi:-92 dBm
+0:50:4->clearing IRQ flags...
+0:50:4->done
+0:50:4->getting IRQ status...
+0:50:4->Done.
+0:50:4->Successful reset IRQ.
+0:50:4->4 5 76 69 66 10 4 6 215 163 112 61 236 27 67 64 92 143 194 245 140 129 85 64 0 0 0 0 0 0 0 
+0:50:4->packet_dest_ID:4
+0:50:4->packet_type:LEB
+0:50:4->setting RX...
+0:50:4->Done.
+0:50:4->incomming packeage...
+0:50:4->************************************
+0:50:4->get report from:4
+0:50:4->find node 10
+0:50:4->hop:6
+0:50:4->latitude:38.218147
+0:50:4->longtitude:86.024229
+0:50:4->Passed?:0
+0:50:4->max algorithm time:0:0:0
+0:50:4->mid algorithm time:0:0:0
+0:50:51->send configuration:
+0:50:51->ID:11
+0:50:51->Destination:10
+0:50:51->incomming packeage...
+0:50:51->get configure reply:
+0:50:51->ID:11
+0:50:51->DEST:10
+0:50:55->send configuration:
+0:50:55->ID:11
+0:50:55->Destination:10
+0:50:55->incomming packeage...
+0:50:55->get configure reply:
+0:50:55->ID:11
+0:50:55->DEST:10
+0:50:58->send echo
+0:50:58->121
+0:50:58->incomming packeage...
+0:50:58->Reading buffer:
+0:50:58->done.
+0:50:58->SNR:57 dB
+0:50:58->Rssi:-118 dBm
+0:50:58->clearing IRQ flags...
+0:50:58->done
+0:50:58->getting IRQ status...
+0:50:58->Done.
+0:50:58->Successful reset IRQ.
+0:50:58->10 11 69 67 72 
+0:50:58->packet_dest_ID:10
+0:50:58->packet_type:ECH
+0:50:58->setting RX...
+0:50:58->Done.
+0:50:58->incomming packeage...
+0:50:58->Reading buffer:
+0:50:58->done.
+0:50:58->SNR:57 dB
+0:50:58->Rssi:-114 dBm
+0:50:58->clearing IRQ flags...
+0:50:58->done
+0:50:58->getting IRQ status...
+0:50:58->Done.
+0:50:58->Successful reset IRQ.
+0:50:58->11 10 66 65 67 1 
+0:50:58->packet_dest_ID:11
+0:50:58->packet_type:BAC
+0:50:58->setting RX...
+0:50:58->Done.
+0:50:59->incomming packeage...
+0:50:59->echo success.
+0:50:59->GPS fix:1
+0:51:6->send out DONE message
+0:51:50->send configuration:
+0:51:50->ID:12
+0:51:50->Destination:11
+0:51:51->incomming packeage...
+0:51:51->get configure reply:
+0:51:51->ID:12
+0:51:51->DEST:11
+0:51:54->send configuration:
+0:51:54->ID:12
+0:51:54->Destination:11
+0:51:55->incomming packeage...
+0:51:55->get configure reply:
+0:51:55->ID:12
+0:51:55->DEST:11
+0:52:6->send echo
+0:52:6->120
+0:52:6->incomming packeage...
+0:52:6->Reading buffer:
+0:52:6->done.
+0:52:6->SNR:52 dB
+0:52:6->Rssi:-11 dBm
+0:52:6->clearing IRQ flags...
+0:52:6->done
+0:52:6->getting IRQ status...
+0:52:6->Done.
+0:52:6->Successful reset IRQ.
+0:52:6->11 12 69 67 72 
+0:52:6->packet_dest_ID:11
+0:52:6->packet_type:ECH
+0:52:6->setting RX...
+0:52:6->Done.
+0:52:7->incomming packeage...
+0:52:7->Reading buffer:
+0:52:7->done.
+0:52:7->SNR:58 dB
+0:52:7->Rssi:-107 dBm
+0:52:7->clearing IRQ flags...
+0:52:7->done
+0:52:7->getting IRQ status...
+0:52:7->Done.
+0:52:7->Successful reset IRQ.
+0:52:7->12 11 66 65 67 0 
+0:52:7->packet_dest_ID:12
+0:52:7->packet_type:BAC
+0:52:7->setting RX...
+0:52:7->Done.
+0:52:7->incomming packeage...
+0:52:7->echo success.
+0:52:7->GPS fix:0
+0:52:11->send out DONE message
+0:53:7->send configuration:
+0:53:7->ID:13
+0:53:7->Destination:12
+0:53:7->incomming packeage...
+0:53:7->get configure reply:
+0:53:7->ID:13
+0:53:7->DEST:12
+0:53:9->send configuration:
+0:53:9->ID:13
+0:53:9->Destination:12
+0:53:10->incomming packeage...
+0:53:10->get configure reply:
+0:53:10->ID:13
+0:53:10->DEST:12
+0:53:14->send echo
+0:53:14->120
+0:53:14->incomming packeage...
+0:53:14->Reading buffer:
+0:53:14->done.
+0:53:14->SNR:55 dB
+0:53:14->Rssi:-3 dBm
+0:53:14->clearing IRQ flags...
+0:53:14->done
+0:53:14->getting IRQ status...
+0:53:14->Done.
+0:53:14->Successful reset IRQ.
+0:53:14->12 13 69 67 72 
+0:53:14->packet_dest_ID:12
+0:53:14->packet_type:ECH
+0:53:14->setting RX...
+0:53:14->Done.
+0:53:14->incomming packeage...
+0:53:14->Reading buffer:
+0:53:14->done.
+0:53:14->SNR:57 dB
+0:53:14->Rssi:-112 dBm
+0:53:14->clearing IRQ flags...
+0:53:14->done
+0:53:14->getting IRQ status...
+0:53:14->Done.
+0:53:14->Successful reset IRQ.
+0:53:14->13 12 66 65 67 1 
+0:53:14->packet_dest_ID:13
+0:53:14->packet_type:BAC
+0:53:14->setting RX...
+0:53:14->Done.
+0:53:14->incomming packeage...
+0:53:14->echo success.
+0:53:14->GPS fix:1
+0:53:20->send out DONE message
+0:54:37->send configuration:
+0:54:37->ID:14
+0:54:37->Destination:13
+0:54:37->incomming packeage...
+0:54:37->get configure reply:
+0:54:37->ID:14
+0:54:37->DEST:13
+0:54:41->send configuration:
+0:54:41->ID:14
+0:54:41->Destination:13
+0:54:41->incomming packeage...
+0:54:41->get configure reply:
+0:54:41->ID:14
+0:54:41->DEST:13
+0:54:46->send echo
+0:54:46->120
+0:54:46->incomming packeage...
+0:54:46->Reading buffer:
+0:54:46->done.
+0:54:46->SNR:56 dB
+0:54:46->Rssi:-2 dBm
+0:54:46->clearing IRQ flags...
+0:54:46->done
+0:54:46->getting IRQ status...
+0:54:46->Done.
+0:54:46->Successful reset IRQ.
+0:54:46->13 14 69 67 72 
+0:54:46->packet_dest_ID:13
+0:54:46->packet_type:ECH
+0:54:46->setting RX...
+0:54:46->Done.
+0:54:47->incomming packeage...
+0:54:47->echo success.
+0:54:47->GPS fix:0
+0:55:1->send out DONE message
+0:56:24->send configuration:
+0:56:24->ID:15
+0:56:24->Destination:14
+0:56:25->incomming packeage...
+0:56:25->get configure reply:
+0:56:25->ID:15
+0:56:25->DEST:14
+0:56:26->send configuration:
+0:56:26->ID:15
+0:56:26->Destination:14
+0:56:27->incomming packeage...
+0:56:27->get configure reply:
+0:56:27->ID:15
+0:56:27->DEST:14
+0:56:31->send echo
+0:56:31->121
+0:56:31->incomming packeage...
+0:56:31->Reading buffer:
+0:56:31->done.
+0:56:31->SNR:55 dB
+0:56:31->Rssi:-4 dBm
+0:56:31->clearing IRQ flags...
+0:56:31->done
+0:56:31->getting IRQ status...
+0:56:31->Done.
+0:56:31->Successful reset IRQ.
+0:56:31->14 15 69 67 72 
+0:56:31->packet_dest_ID:14
+0:56:31->packet_type:ECH
+0:56:31->setting RX...
+0:56:31->Done.
+0:56:32->incomming packeage...
+0:56:32->Reading buffer:
+0:56:32->done.
+0:56:32->SNR:58 dB
+0:56:32->Rssi:-104 dBm
+0:56:32->clearing IRQ flags...
+0:56:32->done
+0:56:32->getting IRQ status...
+0:56:32->Done.
+0:56:32->Successful reset IRQ.
+0:56:32->15 14 66 65 67 1 
+0:56:32->packet_dest_ID:15
+0:56:32->packet_type:BAC
+0:56:32->setting RX...
+0:56:32->Done.
+0:56:32->incomming packeage...
+0:56:32->echo success.
+0:56:32->GPS fix:1
+0:57:16->send long echo to 0
+0:57:16->incomming packeage...
+0:57:16->Reading buffer:
+0:57:16->done.
+0:57:16->SNR:58 dB
+0:57:16->Rssi:-98 dBm
+0:57:16->clearing IRQ flags...
+0:57:16->done
+0:57:16->getting IRQ status...
+0:57:16->Done.
+0:57:16->Successful reset IRQ.
+0:57:16->14 15 76 69 67 0 15 0 
+0:57:16->packet_dest_ID:14
+0:57:16->packet_type:LEC
+0:57:16->setting RX...
+0:57:16->Done.
+0:57:17->incomming packeage...
+0:57:17->Reading buffer:
+0:57:17->done.
+0:57:17->SNR:57 dB
+0:57:17->Rssi:-106 dBm
+0:57:17->clearing IRQ flags...
+0:57:17->done
+0:57:17->getting IRQ status...
+0:57:17->Done.
+0:57:17->Successful reset IRQ.
+0:57:17->15 14 65 67 75 
+0:57:17->packet_dest_ID:15
+0:57:17->packet_type:ACK
+0:57:17->setting RX...
+0:57:17->Done.
+0:57:17->incomming packeage...
+0:57:17->Reading buffer:
+0:57:17->done.
+0:57:17->SNR:58 dB
+0:57:17->Rssi:-105 dBm
+0:57:17->clearing IRQ flags...
+0:57:17->done
+0:57:17->getting IRQ status...
+0:57:17->Done.
+0:57:17->Successful reset IRQ.
+0:57:17->13 14 76 69 67 0 15 1 
+0:57:17->packet_dest_ID:13
+0:57:17->packet_type:LEC
+0:57:17->setting RX...
+0:57:17->Done.
+0:57:18->incomming packeage...
+0:57:18->Reading buffer:
+0:57:18->done.
+0:57:18->SNR:57 dB
+0:57:18->Rssi:-122 dBm
+0:57:18->clearing IRQ flags...
+0:57:18->done
+0:57:18->getting IRQ status...
+0:57:18->Done.
+0:57:18->Successful reset IRQ.
+0:57:18->13 12 65 67 75 
+0:57:18->packet_dest_ID:13
+0:57:18->packet_type:ACK
+0:57:18->setting RX...
+0:57:18->Done.
+0:57:19->incomming packeage...
+0:57:19->Reading buffer:
+0:57:19->done.
+0:57:19->SNR:57 dB
+0:57:19->Rssi:-121 dBm
+0:57:19->clearing IRQ flags...
+0:57:19->done
+0:57:19->getting IRQ status...
+0:57:19->Done.
+0:57:19->Successful reset IRQ.
+0:57:19->11 12 76 69 67 0 15 3 
+0:57:19->packet_dest_ID:11
+0:57:19->packet_type:LEC
+0:57:19->setting RX...
+0:57:19->Done.
+0:57:19->incomming packeage...
+0:57:19->Reading buffer:
+0:57:19->done.
+0:57:19->SNR:57 dB
+0:57:19->Rssi:-115 dBm
+0:57:19->clearing IRQ flags...
+0:57:19->done
+0:57:19->getting IRQ status...
+0:57:19->Done.
+0:57:19->Successful reset IRQ.
+0:57:19->12 11 65 67 75 
+0:57:19->packet_dest_ID:12
+0:57:19->packet_type:ACK
+0:57:19->setting RX...
+0:57:19->Done.
+0:57:19->incomming packeage...
+0:57:19->Reading buffer:
+0:57:19->done.
+0:57:19->SNR:57 dB
+0:57:19->Rssi:-110 dBm
+0:57:19->clearing IRQ flags...
+0:57:19->done
+0:57:19->getting IRQ status...
+0:57:19->Done.
+0:57:19->Successful reset IRQ.
+0:57:19->10 11 76 69 67 0 15 4 
+0:57:19->packet_dest_ID:10
+0:57:19->packet_type:LEC
+0:57:19->setting RX...
+0:57:19->Done.
+0:57:20->incomming packeage...
+0:57:20->Reading buffer:
+0:57:20->done.
+0:57:20->SNR:57 dB
+0:57:20->Rssi:-116 dBm
+0:57:20->clearing IRQ flags...
+0:57:20->done
+0:57:20->getting IRQ status...
+0:57:20->Done.
+0:57:20->Successful reset IRQ.
+0:57:20->11 10 65 67 75 
+0:57:20->packet_dest_ID:11
+0:57:20->packet_type:ACK
+0:57:20->setting RX...
+0:57:20->Done.
+0:57:20->incomming packeage...
+0:57:20->Reading buffer:
+0:57:20->done.
+0:57:20->SNR:57 dB
+0:57:20->Rssi:-116 dBm
+0:57:20->clearing IRQ flags...
+0:57:20->done
+0:57:20->getting IRQ status...
+0:57:20->Done.
+0:57:20->Successful reset IRQ.
+0:57:20->9 10 76 69 67 0 15 5 
+0:57:20->packet_dest_ID:9
+0:57:20->packet_type:LEC
+0:57:20->setting RX...
+0:57:20->Done.
+0:57:20->incomming packeage...
+0:57:20->Reading buffer:
+0:57:20->done.
+0:57:20->SNR:56 dB
+0:57:20->Rssi:-125 dBm
+0:57:20->clearing IRQ flags...
+0:57:20->done
+0:57:20->getting IRQ status...
+0:57:20->Done.
+0:57:20->Successful reset IRQ.
+0:57:20->10 9 65 67 75 
+0:57:20->packet_dest_ID:10
+0:57:20->packet_type:ACK
+0:57:20->setting RX...
+0:57:20->Done.
+0:57:21->incomming packeage...
+0:57:21->Reading buffer:
+0:57:21->done.
+0:57:21->SNR:56 dB
+0:57:21->Rssi:-125 dBm
+0:57:21->clearing IRQ flags...
+0:57:21->done
+0:57:21->getting IRQ status...
+0:57:21->Done.
+0:57:21->Successful reset IRQ.
+0:57:21->8 9 76 69 67 0 15 6 
+0:57:21->packet_dest_ID:8
+0:57:21->packet_type:LEC
+0:57:21->setting RX...
+0:57:21->Done.
+0:57:21->incomming packeage...
+0:57:21->Reading buffer:
+0:57:21->done.
+0:57:21->SNR:57 dB
+0:57:21->Rssi:-123 dBm
+0:57:21->clearing IRQ flags...
+0:57:21->done
+0:57:21->getting IRQ status...
+0:57:21->Done.
+0:57:21->Successful reset IRQ.
+0:57:21->9 8 65 67 75 
+0:57:21->packet_dest_ID:9
+0:57:21->packet_type:ACK
+0:57:21->setting RX...
+0:57:21->Done.
+0:57:22->incomming packeage...
+0:57:22->Reading buffer:
+0:57:22->done.
+0:57:22->SNR:57 dB
+0:57:22->Rssi:-123 dBm
+0:57:22->clearing IRQ flags...
+0:57:22->done
+0:57:22->getting IRQ status...
+0:57:22->Done.
+0:57:22->Successful reset IRQ.
+0:57:22->7 8 76 69 67 0 15 7 
+0:57:22->packet_dest_ID:7
+0:57:22->packet_type:LEC
+0:57:22->setting RX...
+0:57:22->Done.
+0:57:30->incomming packeage...
+0:57:30->Reading buffer:
+0:57:30->done.
+0:57:30->SNR:58 dB
+0:57:30->Rssi:-91 dBm
+0:57:30->clearing IRQ flags...
+0:57:30->done
+0:57:30->getting IRQ status...
+0:57:30->Done.
+0:57:30->Successful reset IRQ.
+0:57:30->8 7 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:30->packet_dest_ID:8
+0:57:30->packet_type:LEB
+0:57:30->setting RX...
+0:57:30->Done.
+0:57:30->incomming packeage...
+0:57:30->Reading buffer:
+0:57:30->done.
+0:57:30->SNR:57 dB
+0:57:30->Rssi:-122 dBm
+0:57:30->clearing IRQ flags...
+0:57:30->done
+0:57:30->getting IRQ status...
+0:57:30->Done.
+0:57:30->Successful reset IRQ.
+0:57:30->7 8 65 67 75 
+0:57:30->packet_dest_ID:7
+0:57:30->packet_type:ACK
+0:57:30->setting RX...
+0:57:30->Done.
+0:57:31->incomming packeage...
+0:57:31->Reading buffer:
+0:57:31->done.
+0:57:31->SNR:57 dB
+0:57:31->Rssi:-123 dBm
+0:57:31->clearing IRQ flags...
+0:57:31->done
+0:57:31->getting IRQ status...
+0:57:31->Done.
+0:57:31->Successful reset IRQ.
+0:57:31->9 8 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:31->packet_dest_ID:9
+0:57:31->packet_type:LEB
+0:57:31->setting RX...
+0:57:31->Done.
+0:57:31->incomming packeage...
+0:57:31->Reading buffer:
+0:57:31->done.
+0:57:31->SNR:56 dB
+0:57:31->Rssi:-127 dBm
+0:57:31->clearing IRQ flags...
+0:57:31->done
+0:57:31->getting IRQ status...
+0:57:31->Done.
+0:57:31->Successful reset IRQ.
+0:57:31->8 9 65 67 75 
+0:57:31->packet_dest_ID:8
+0:57:31->packet_type:ACK
+0:57:31->setting RX...
+0:57:31->Done.
+0:57:32->incomming packeage...
+0:57:32->Reading buffer:
+0:57:32->done.
+0:57:32->SNR:56 dB
+0:57:32->Rssi:-126 dBm
+0:57:32->clearing IRQ flags...
+0:57:32->done
+0:57:32->getting IRQ status...
+0:57:32->Done.
+0:57:32->Successful reset IRQ.
+0:57:32->10 9 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:32->packet_dest_ID:10
+0:57:32->packet_type:LEB
+0:57:32->setting RX...
+0:57:32->Done.
+0:57:32->incomming packeage...
+0:57:32->Reading buffer:
+0:57:32->done.
+0:57:32->SNR:57 dB
+0:57:32->Rssi:-113 dBm
+0:57:32->clearing IRQ flags...
+0:57:32->done
+0:57:32->getting IRQ status...
+0:57:32->Done.
+0:57:32->Successful reset IRQ.
+0:57:32->9 10 65 67 75 
+0:57:32->packet_dest_ID:9
+0:57:32->packet_type:ACK
+0:57:32->setting RX...
+0:57:32->Done.
+0:57:33->incomming packeage...
+0:57:33->Reading buffer:
+0:57:33->done.
+0:57:33->SNR:57 dB
+0:57:33->Rssi:-112 dBm
+0:57:33->clearing IRQ flags...
+0:57:33->done
+0:57:33->getting IRQ status...
+0:57:33->Done.
+0:57:33->Successful reset IRQ.
+0:57:33->11 10 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:33->packet_dest_ID:11
+0:57:33->packet_type:LEB
+0:57:33->setting RX...
+0:57:33->Done.
+0:57:33->incomming packeage...
+0:57:33->Reading buffer:
+0:57:33->done.
+0:57:33->SNR:57 dB
+0:57:33->Rssi:-110 dBm
+0:57:33->clearing IRQ flags...
+0:57:33->done
+0:57:33->getting IRQ status...
+0:57:33->Done.
+0:57:33->Successful reset IRQ.
+0:57:33->10 11 65 67 75 
+0:57:33->packet_dest_ID:10
+0:57:33->packet_type:ACK
+0:57:33->setting RX...
+0:57:33->Done.
+0:57:34->incomming packeage...
+0:57:34->Reading buffer:
+0:57:34->done.
+0:57:34->SNR:57 dB
+0:57:34->Rssi:-108 dBm
+0:57:34->clearing IRQ flags...
+0:57:34->done
+0:57:34->getting IRQ status...
+0:57:34->Done.
+0:57:34->Successful reset IRQ.
+0:57:34->12 11 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:34->packet_dest_ID:12
+0:57:34->packet_type:LEB
+0:57:34->setting RX...
+0:57:34->Done.
+0:57:34->incomming packeage...
+0:57:34->Reading buffer:
+0:57:34->done.
+0:57:34->SNR:57 dB
+0:57:34->Rssi:-115 dBm
+0:57:34->clearing IRQ flags...
+0:57:34->done
+0:57:34->getting IRQ status...
+0:57:34->Done.
+0:57:34->Successful reset IRQ.
+0:57:34->11 12 65 67 75 
+0:57:34->packet_dest_ID:11
+0:57:34->packet_type:ACK
+0:57:34->setting RX...
+0:57:34->Done.
+0:57:35->incomming packeage...
+0:57:35->Reading buffer:
+0:57:35->done.
+0:57:35->SNR:57 dB
+0:57:35->Rssi:-117 dBm
+0:57:35->clearing IRQ flags...
+0:57:35->done
+0:57:35->getting IRQ status...
+0:57:35->Done.
+0:57:35->Successful reset IRQ.
+0:57:35->13 12 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:35->packet_dest_ID:13
+0:57:35->packet_type:LEB
+0:57:35->setting RX...
+0:57:35->Done.
+0:57:36->incomming packeage...
+0:57:36->Reading buffer:
+0:57:36->done.
+0:57:36->SNR:58 dB
+0:57:36->Rssi:-103 dBm
+0:57:36->clearing IRQ flags...
+0:57:36->done
+0:57:36->getting IRQ status...
+0:57:36->Done.
+0:57:36->Successful reset IRQ.
+0:57:36->13 14 65 67 75 
+0:57:36->packet_dest_ID:13
+0:57:36->packet_type:ACK
+0:57:36->setting RX...
+0:57:36->Done.
+0:57:36->incomming packeage...
+0:57:36->Reading buffer:
+0:57:36->done.
+0:57:36->SNR:57 dB
+0:57:36->Rssi:-104 dBm
+0:57:36->clearing IRQ flags...
+0:57:36->done
+0:57:36->getting IRQ status...
+0:57:36->Done.
+0:57:36->Successful reset IRQ.
+0:57:36->15 14 76 69 66 5 15 10 215 163 112 61 240 27 67 64 41 92 143 194 141 129 85 64 0 0 0 0 0 0 0 
+0:57:36->packet_dest_ID:15
+0:57:36->packet_type:LEB
+0:57:36->setting RX...
+0:57:36->Done.
+0:57:37->incomming packeage...
+0:57:37->************************************
+0:57:37->get report from:15
+0:57:37->only made to:5
+0:57:37->hop:10
+0:57:37->latitude:38.218269
+0:57:37->longtitude:86.024277
+0:57:37->Passed?:0
+0:57:37->max algorithm time:0:0:0
+0:57:37->mid algorithm time:0:0:0
+0:57:53->send long echo to 0
+0:57:53->incomming packeage...
+0:57:53->Reading buffer:
+0:57:53->done.
+0:57:53->SNR:58 dB
+0:57:53->Rssi:-102 dBm
+0:57:53->clearing IRQ flags...
+0:57:53->done
+0:57:53->getting IRQ status...
+0:57:53->Done.
+0:57:53->Successful reset IRQ.
+0:57:53->15 14 65 67 75 
+0:57:53->packet_dest_ID:15
+0:57:53->packet_type:ACK
+0:57:53->setting RX...
+0:57:53->Done.
+0:57:54->incomming packeage...
+0:57:54->Reading buffer:
+0:57:54->done.
+0:57:54->SNR:58 dB
+0:57:54->Rssi:-101 dBm
+0:57:54->clearing IRQ flags...
+0:57:54->done
+0:57:54->getting IRQ status...
+0:57:54->Done.
+0:57:54->Successful reset IRQ.
+0:57:54->13 14 76 69 67 0 15 1 
+0:57:54->packet_dest_ID:13
+0:57:54->packet_type:LEC
+0:57:54->setting RX...
+0:57:54->Done.
+0:57:55->incomming packeage...
+0:57:55->Reading buffer:
+0:57:55->done.
+0:57:55->SNR:57 dB
+0:57:55->Rssi:-119 dBm
+0:57:55->clearing IRQ flags...
+0:57:55->done
+0:57:55->getting IRQ status...
+0:57:55->Done.
+0:57:55->Successful reset IRQ.
+0:57:55->13 12 65 67 75 
+0:57:55->packet_dest_ID:13
+0:57:55->packet_type:ACK
+0:57:55->setting RX...
+0:57:55->Done.
+0:57:55->incomming packeage...
+0:57:55->Reading buffer:
+0:57:55->done.
+0:57:55->SNR:57 dB
+0:57:55->Rssi:-119 dBm
+0:57:55->clearing IRQ flags...
+0:57:55->done
+0:57:55->getting IRQ status...
+0:57:55->Done.
+0:57:55->Successful reset IRQ.
+0:57:55->11 12 76 69 67 0 15 3 
+0:57:55->packet_dest_ID:11
+0:57:55->packet_type:LEC
+0:57:55->setting RX...
+0:57:55->Done.
+0:57:56->incomming packeage...
+0:57:56->Reading buffer:
+0:57:56->done.
+0:57:56->SNR:57 dB
+0:57:56->Rssi:-108 dBm
+0:57:56->clearing IRQ flags...
+0:57:56->done
+0:57:56->getting IRQ status...
+0:57:56->Done.
+0:57:56->Successful reset IRQ.
+0:57:56->12 11 65 67 75 
+0:57:56->packet_dest_ID:12
+0:57:56->packet_type:ACK
+0:57:56->setting RX...
+0:57:56->Done.
+0:57:56->incomming packeage...
+0:57:56->Reading buffer:
+0:57:56->done.
+0:57:56->SNR:57 dB
+0:57:56->Rssi:-109 dBm
+0:57:56->clearing IRQ flags...
+0:57:56->done
+0:57:56->getting IRQ status...
+0:57:56->Done.
+0:57:56->Successful reset IRQ.
+0:57:56->10 11 76 69 67 0 15 4 
+0:57:56->packet_dest_ID:10
+0:57:56->packet_type:LEC
+0:57:56->setting RX...
+0:57:56->Done.
+0:57:56->incomming packeage...
+0:57:56->Reading buffer:
+0:57:56->done.
+0:57:56->SNR:57 dB
+0:57:56->Rssi:-118 dBm
+0:57:56->clearing IRQ flags...
+0:57:56->done
+0:57:56->getting IRQ status...
+0:57:56->Done.
+0:57:56->Successful reset IRQ.
+0:57:56->11 10 65 67 75 
+0:57:56->packet_dest_ID:11
+0:57:56->packet_type:ACK
+0:57:56->setting RX...
+0:57:56->Done.
+0:57:57->incomming packeage...
+0:57:57->Reading buffer:
+0:57:57->done.
+0:57:57->SNR:57 dB
+0:57:57->Rssi:-118 dBm
+0:57:57->clearing IRQ flags...
+0:57:57->done
+0:57:57->getting IRQ status...
+0:57:57->Done.
+0:57:57->Successful reset IRQ.
+0:57:57->9 10 76 69 67 0 15 5 
+0:57:57->packet_dest_ID:9
+0:57:57->packet_type:LEC
+0:57:57->setting RX...
+0:57:57->Done.
+0:57:57->incomming packeage...
+0:57:57->Reading buffer:
+0:57:57->done.
+0:57:57->SNR:56 dB
+0:57:57->Rssi:-123 dBm
+0:57:57->clearing IRQ flags...
+0:57:57->done
+0:57:57->getting IRQ status...
+0:57:57->Done.
+0:57:57->Successful reset IRQ.
+0:57:57->10 9 65 67 75 
+0:57:57->packet_dest_ID:10
+0:57:57->packet_type:ACK
+0:57:57->setting RX...
+0:57:57->Done.
+0:57:58->incomming packeage...
+0:57:58->Reading buffer:
+0:57:58->done.
+0:57:58->SNR:57 dB
+0:57:58->Rssi:-123 dBm
+0:57:58->clearing IRQ flags...
+0:57:58->done
+0:57:58->getting IRQ status...
+0:57:58->Done.
+0:57:58->Successful reset IRQ.
+0:57:58->8 9 76 69 67 0 15 6 
+0:57:58->packet_dest_ID:8
+0:57:58->packet_type:LEC
+0:57:58->setting RX...
+0:57:58->Done.
+0:57:58->incomming packeage...
+0:57:58->Reading buffer:
+0:57:58->done.
+0:57:58->SNR:56 dB
+0:57:58->Rssi:-125 dBm
+0:57:58->clearing IRQ flags...
+0:57:58->done
+0:57:58->getting IRQ status...
+0:57:58->Done.
+0:57:58->Successful reset IRQ.
+0:57:58->9 8 65 67 75 
+0:57:58->packet_dest_ID:9
+0:57:58->packet_type:ACK
+0:57:58->setting RX...
+0:57:58->Done.
+0:57:58->incomming packeage...
+0:57:58->Reading buffer:
+0:57:58->done.
+0:57:58->SNR:57 dB
+0:57:58->Rssi:-125 dBm
+0:57:58->clearing IRQ flags...
+0:57:58->done
+0:57:58->getting IRQ status...
+0:57:58->Done.
+0:57:58->Successful reset IRQ.
+0:57:58->7 8 76 69 67 0 15 7 
+0:57:58->packet_dest_ID:7
+0:57:58->packet_type:LEC
+0:57:58->setting RX...
+0:57:58->Done.
+0:57:59->incomming packeage...
+0:57:59->Reading buffer:
+0:57:59->done.
+0:57:59->SNR:58 dB
+0:57:59->Rssi:-104 dBm
+0:57:59->clearing IRQ flags...
+0:57:59->done
+0:57:59->getting IRQ status...
+0:57:59->Done.
+0:57:59->Successful reset IRQ.
+0:57:59->8 7 65 67 75 
+0:57:59->packet_dest_ID:8
+0:57:59->packet_type:ACK
+0:57:59->setting RX...
+0:57:59->Done.
+0:57:59->incomming packeage...
+0:57:59->Reading buffer:
+0:57:59->done.
+0:57:59->SNR:57 dB
+0:57:59->Rssi:-103 dBm
+0:57:59->clearing IRQ flags...
+0:57:59->done
+0:57:59->getting IRQ status...
+0:57:59->Done.
+0:57:59->Successful reset IRQ.
+0:57:59->6 7 76 69 67 0 15 8 
+0:57:59->packet_dest_ID:6
+0:57:59->packet_type:LEC
+0:57:59->setting RX...
+0:57:59->Done.
+0:58:6->incomming packeage...
+0:58:6->Reading buffer:
+0:58:6->done.
+0:58:6->SNR:58 dB
+0:58:6->Rssi:-103 dBm
+0:58:6->clearing IRQ flags...
+0:58:6->done
+0:58:6->getting IRQ status...
+0:58:6->Done.
+0:58:6->Successful reset IRQ.
+0:58:6->6 7 65 67 75 
+0:58:6->packet_dest_ID:6
+0:58:6->packet_type:ACK
+0:58:6->setting RX...
+0:58:6->Done.
+0:58:7->incomming packeage...
+0:58:7->Reading buffer:
+0:58:7->done.
+0:58:7->SNR:58 dB
+0:58:7->Rssi:-104 dBm
+0:58:7->clearing IRQ flags...
+0:58:7->done
+0:58:7->getting IRQ status...
+0:58:7->Done.
+0:58:7->Successful reset IRQ.
+0:58:7->8 7 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:7->packet_dest_ID:8
+0:58:7->packet_type:LEB
+0:58:7->setting RX...
+0:58:7->Done.
+0:58:7->incomming packeage...
+0:58:7->Reading buffer:
+0:58:7->done.
+0:58:7->SNR:56 dB
+0:58:7->Rssi:-124 dBm
+0:58:7->clearing IRQ flags...
+0:58:7->done
+0:58:7->getting IRQ status...
+0:58:7->Done.
+0:58:7->Successful reset IRQ.
+0:58:7->7 8 65 67 75 
+0:58:7->packet_dest_ID:7
+0:58:7->packet_type:ACK
+0:58:7->setting RX...
+0:58:7->Done.
+0:58:8->incomming packeage...
+0:58:8->Reading buffer:
+0:58:8->done.
+0:58:8->SNR:57 dB
+0:58:8->Rssi:-124 dBm
+0:58:8->clearing IRQ flags...
+0:58:8->done
+0:58:8->getting IRQ status...
+0:58:8->Done.
+0:58:8->Successful reset IRQ.
+0:58:8->9 8 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:8->packet_dest_ID:9
+0:58:8->packet_type:LEB
+0:58:8->setting RX...
+0:58:8->Done.
+0:58:8->incomming packeage...
+0:58:8->Reading buffer:
+0:58:8->done.
+0:58:8->SNR:57 dB
+0:58:8->Rssi:-123 dBm
+0:58:8->clearing IRQ flags...
+0:58:8->done
+0:58:8->getting IRQ status...
+0:58:8->Done.
+0:58:8->Successful reset IRQ.
+0:58:8->8 9 65 67 75 
+0:58:8->packet_dest_ID:8
+0:58:8->packet_type:ACK
+0:58:8->setting RX...
+0:58:8->Done.
+0:58:9->incomming packeage...
+0:58:9->Reading buffer:
+0:58:9->done.
+0:58:9->SNR:57 dB
+0:58:9->Rssi:-124 dBm
+0:58:9->clearing IRQ flags...
+0:58:9->done
+0:58:9->getting IRQ status...
+0:58:9->Done.
+0:58:9->Successful reset IRQ.
+0:58:9->10 9 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:9->packet_dest_ID:10
+0:58:9->packet_type:LEB
+0:58:9->setting RX...
+0:58:9->Done.
+0:58:9->incomming packeage...
+0:58:9->Reading buffer:
+0:58:9->done.
+0:58:9->SNR:57 dB
+0:58:9->Rssi:-117 dBm
+0:58:9->clearing IRQ flags...
+0:58:9->done
+0:58:9->getting IRQ status...
+0:58:9->Done.
+0:58:9->Successful reset IRQ.
+0:58:9->9 10 65 67 75 
+0:58:9->packet_dest_ID:9
+0:58:9->packet_type:ACK
+0:58:9->setting RX...
+0:58:9->Done.
+0:58:9->incomming packeage...
+0:58:9->Reading buffer:
+0:58:9->done.
+0:58:9->SNR:57 dB
+0:58:9->Rssi:-118 dBm
+0:58:9->clearing IRQ flags...
+0:58:9->done
+0:58:9->getting IRQ status...
+0:58:9->Done.
+0:58:9->Successful reset IRQ.
+0:58:9->11 10 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:9->packet_dest_ID:11
+0:58:9->packet_type:LEB
+0:58:9->setting RX...
+0:58:9->Done.
+0:58:10->incomming packeage...
+0:58:10->Reading buffer:
+0:58:10->done.
+0:58:10->SNR:58 dB
+0:58:10->Rssi:-108 dBm
+0:58:10->clearing IRQ flags...
+0:58:10->done
+0:58:10->getting IRQ status...
+0:58:10->Done.
+0:58:10->Successful reset IRQ.
+0:58:10->10 11 65 67 75 
+0:58:10->packet_dest_ID:10
+0:58:10->packet_type:ACK
+0:58:10->setting RX...
+0:58:10->Done.
+0:58:10->incomming packeage...
+0:58:10->Reading buffer:
+0:58:10->done.
+0:58:10->SNR:57 dB
+0:58:10->Rssi:-108 dBm
+0:58:10->clearing IRQ flags...
+0:58:10->done
+0:58:10->getting IRQ status...
+0:58:10->Done.
+0:58:10->Successful reset IRQ.
+0:58:10->12 11 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:10->packet_dest_ID:12
+0:58:10->packet_type:LEB
+0:58:10->setting RX...
+0:58:10->Done.
+0:58:11->incomming packeage...
+0:58:11->Reading buffer:
+0:58:11->done.
+0:58:11->SNR:57 dB
+0:58:11->Rssi:-120 dBm
+0:58:11->clearing IRQ flags...
+0:58:11->done
+0:58:11->getting IRQ status...
+0:58:11->Done.
+0:58:11->Successful reset IRQ.
+0:58:11->11 12 65 67 75 
+0:58:11->packet_dest_ID:11
+0:58:11->packet_type:ACK
+0:58:11->setting RX...
+0:58:11->Done.
+0:58:11->incomming packeage...
+0:58:11->Reading buffer:
+0:58:11->done.
+0:58:11->SNR:57 dB
+0:58:11->Rssi:-119 dBm
+0:58:11->clearing IRQ flags...
+0:58:11->done
+0:58:11->getting IRQ status...
+0:58:11->Done.
+0:58:11->Successful reset IRQ.
+0:58:11->13 12 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:11->packet_dest_ID:13
+0:58:11->packet_type:LEB
+0:58:11->setting RX...
+0:58:11->Done.
+0:58:12->incomming packeage...
+0:58:12->Reading buffer:
+0:58:12->done.
+0:58:12->SNR:58 dB
+0:58:12->Rssi:-99 dBm
+0:58:12->clearing IRQ flags...
+0:58:12->done
+0:58:12->getting IRQ status...
+0:58:12->Done.
+0:58:12->Successful reset IRQ.
+0:58:12->13 14 65 67 75 
+0:58:12->packet_dest_ID:13
+0:58:12->packet_type:ACK
+0:58:12->setting RX...
+0:58:12->Done.
+0:58:13->incomming packeage...
+0:58:13->Reading buffer:
+0:58:13->done.
+0:58:13->SNR:58 dB
+0:58:13->Rssi:-99 dBm
+0:58:13->clearing IRQ flags...
+0:58:13->done
+0:58:13->getting IRQ status...
+0:58:13->Done.
+0:58:13->Successful reset IRQ.
+0:58:13->15 14 76 69 66 5 15 10 0 0 0 0 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+0:58:13->packet_dest_ID:15
+0:58:13->packet_type:LEB
+0:58:13->setting RX...
+0:58:13->Done.
+0:58:13->incomming packeage...
+0:58:13->************************************
+0:58:13->get report from:15
+0:58:13->only made to:5
+0:58:13->hop:10
+0:58:13->latitude:38.218201
+0:58:13->longtitude:86.024209
+0:58:13->Passed?:0
+0:58:13->max algorithm time:0:0:0
+0:58:13->mid algorithm time:0:0:0
+0:58:14->incomming packeage...
+0:58:14->Reading buffer:
+0:58:14->done.
+0:58:14->SNR:58 dB
+0:58:14->Rssi:-92 dBm
+0:58:14->clearing IRQ flags...
+0:58:14->done
+0:58:14->getting IRQ status...
+0:58:14->Done.
+0:58:14->Successful reset IRQ.
+0:58:14->14 15 65 67 75 
+0:58:14->packet_dest_ID:14
+0:58:14->packet_type:ACK
+0:58:14->setting RX...
+0:58:14->Done.
+0:59:20->send out DONE message
+1:0:38->send configuration:
+1:0:38->ID:4
+1:0:38->Destination:3
+1:0:38->incomming packeage...
+1:0:38->get configure reply:
+1:0:38->ID:4
+1:0:38->DEST:3
+1:0:42->send configuration:
+1:0:42->ID:4
+1:0:42->Destination:3
+1:0:42->incomming packeage...
+1:0:42->get configure reply:
+1:0:42->ID:4
+1:0:42->DEST:3
+1:0:53->send echo
+1:0:53->120
+1:0:54->incomming packeage...
+1:0:54->echo success.
+1:0:54->GPS fix:1
+1:2:17->send out DONE message
+1:2:48->send configuration:
+1:2:48->ID:5
+1:2:48->Destination:4
+1:2:48->incomming packeage...
+1:2:48->get configure reply:
+1:2:48->ID:5
+1:2:48->DEST:4
+1:3:18->send configuration:
+1:3:18->ID:5
+1:3:18->Destination:4
+1:3:26->reconfigure 5
+1:3:26->incomming packeage...
+1:3:26->Unlock node 5 to reconfigure
+1:3:30->send echo
+1:3:30->120
+1:3:31->incomming packeage...
+1:3:31->echo success.
+1:3:31->GPS fix:1
+1:3:44->send out DONE message
+1:3:55->send configuration:
+1:3:55->ID:15
+1:3:55->Destination:14
+1:4:0->send configuration:
+1:4:0->ID:15
+1:4:0->Destination:14
+1:4:5->reconfigure 15
+1:4:5->incomming packeage...
+1:4:5->Unlock node 15 to reconfigure
+1:4:7->send configuration:
+1:4:7->ID:15
+1:4:7->Destination:14
+1:4:7->incomming packeage...
+1:4:7->get configure reply:
+1:4:7->ID:15
+1:4:7->DEST:14
+1:4:12->send configuration:
+1:4:12->ID:15
+1:4:12->Destination:14
+1:4:12->incomming packeage...
+1:4:12->get configure reply:
+1:4:12->ID:15
+1:4:12->DEST:14
+1:4:22->send long echo to 0
+1:4:22->incomming packeage...
+1:4:22->Reading buffer:
+1:4:22->done.
+1:4:22->SNR:57 dB
+1:4:22->Rssi:-105 dBm
+1:4:22->clearing IRQ flags...
+1:4:22->done
+1:4:22->getting IRQ status...
+1:4:22->Done.
+1:4:22->Successful reset IRQ.
+1:4:22->14 15 76 69 67 0 15 0 
+1:4:22->packet_dest_ID:14
+1:4:22->packet_type:LEC
+1:4:22->setting RX...
+1:4:22->Done.
+1:4:22->incomming packeage...
+1:4:22->Reading buffer:
+1:4:22->done.
+1:4:22->SNR:58 dB
+1:4:22->Rssi:-99 dBm
+1:4:22->clearing IRQ flags...
+1:4:22->done
+1:4:22->getting IRQ status...
+1:4:22->Done.
+1:4:22->Successful reset IRQ.
+1:4:22->15 14 65 67 75 
+1:4:22->packet_dest_ID:15
+1:4:22->packet_type:ACK
+1:4:22->setting RX...
+1:4:22->Done.
+1:4:23->incomming packeage...
+1:4:23->Reading buffer:
+1:4:23->done.
+1:4:23->SNR:58 dB
+1:4:23->Rssi:-100 dBm
+1:4:23->clearing IRQ flags...
+1:4:23->done
+1:4:23->getting IRQ status...
+1:4:23->Done.
+1:4:23->Successful reset IRQ.
+1:4:23->13 14 76 69 67 0 15 1 
+1:4:23->packet_dest_ID:13
+1:4:23->packet_type:LEC
+1:4:23->setting RX...
+1:4:23->Done.
+1:4:24->incomming packeage...
+1:4:24->Reading buffer:
+1:4:24->done.
+1:4:24->SNR:57 dB
+1:4:24->Rssi:-116 dBm
+1:4:24->clearing IRQ flags...
+1:4:24->done
+1:4:24->getting IRQ status...
+1:4:24->Done.
+1:4:24->Successful reset IRQ.
+1:4:24->13 12 65 67 75 
+1:4:24->packet_dest_ID:13
+1:4:24->packet_type:ACK
+1:4:24->setting RX...
+1:4:24->Done.
+1:4:24->incomming packeage...
+1:4:24->Reading buffer:
+1:4:24->done.
+1:4:24->SNR:57 dB
+1:4:24->Rssi:-120 dBm
+1:4:24->clearing IRQ flags...
+1:4:24->done
+1:4:24->getting IRQ status...
+1:4:24->Done.
+1:4:24->Successful reset IRQ.
+1:4:24->11 12 76 69 67 0 15 3 
+1:4:24->packet_dest_ID:11
+1:4:24->packet_type:LEC
+1:4:24->setting RX...
+1:4:24->Done.
+1:4:24->incomming packeage...
+1:4:24->Reading buffer:
+1:4:24->done.
+1:4:24->SNR:57 dB
+1:4:24->Rssi:-109 dBm
+1:4:24->clearing IRQ flags...
+1:4:24->done
+1:4:24->getting IRQ status...
+1:4:24->Done.
+1:4:24->Successful reset IRQ.
+1:4:24->12 11 65 67 75 
+1:4:24->packet_dest_ID:12
+1:4:24->packet_type:ACK
+1:4:24->setting RX...
+1:4:24->Done.
+1:4:25->incomming packeage...
+1:4:25->Reading buffer:
+1:4:25->done.
+1:4:25->SNR:57 dB
+1:4:25->Rssi:-112 dBm
+1:4:25->clearing IRQ flags...
+1:4:25->done
+1:4:25->getting IRQ status...
+1:4:25->Done.
+1:4:25->Successful reset IRQ.
+1:4:25->10 11 76 69 67 0 15 4 
+1:4:25->packet_dest_ID:10
+1:4:25->packet_type:LEC
+1:4:25->setting RX...
+1:4:25->Done.
+1:4:25->incomming packeage...
+1:4:25->Reading buffer:
+1:4:25->done.
+1:4:25->SNR:57 dB
+1:4:25->Rssi:-114 dBm
+1:4:25->clearing IRQ flags...
+1:4:25->done
+1:4:25->getting IRQ status...
+1:4:25->Done.
+1:4:25->Successful reset IRQ.
+1:4:25->11 10 65 67 75 
+1:4:25->packet_dest_ID:11
+1:4:25->packet_type:ACK
+1:4:25->setting RX...
+1:4:25->Done.
+1:4:25->incomming packeage...
+1:4:25->Reading buffer:
+1:4:25->done.
+1:4:25->SNR:57 dB
+1:4:25->Rssi:-114 dBm
+1:4:25->clearing IRQ flags...
+1:4:25->done
+1:4:25->getting IRQ status...
+1:4:25->Done.
+1:4:25->Successful reset IRQ.
+1:4:25->9 10 76 69 67 0 15 5 
+1:4:25->packet_dest_ID:9
+1:4:25->packet_type:LEC
+1:4:25->setting RX...
+1:4:25->Done.
+1:4:26->incomming packeage...
+1:4:26->Reading buffer:
+1:4:26->done.
+1:4:26->SNR:56 dB
+1:4:26->Rssi:-125 dBm
+1:4:26->clearing IRQ flags...
+1:4:26->done
+1:4:26->getting IRQ status...
+1:4:26->Done.
+1:4:26->Successful reset IRQ.
+1:4:26->10 9 65 67 75 
+1:4:26->packet_dest_ID:10
+1:4:26->packet_type:ACK
+1:4:26->setting RX...
+1:4:26->Done.
+1:4:26->incomming packeage...
+1:4:26->Reading buffer:
+1:4:26->done.
+1:4:26->SNR:56 dB
+1:4:26->Rssi:-127 dBm
+1:4:26->clearing IRQ flags...
+1:4:26->done
+1:4:26->getting IRQ status...
+1:4:26->Done.
+1:4:26->Successful reset IRQ.
+1:4:26->8 9 76 69 67 0 15 6 
+1:4:26->packet_dest_ID:8
+1:4:26->packet_type:LEC
+1:4:26->setting RX...
+1:4:26->Done.
+1:4:27->incomming packeage...
+1:4:27->Reading buffer:
+1:4:27->done.
+1:4:27->SNR:55 dB
+1:4:27->Rssi:-4 dBm
+1:4:27->clearing IRQ flags...
+1:4:27->done
+1:4:27->getting IRQ status...
+1:4:27->Done.
+1:4:27->Successful reset IRQ.
+1:4:27->9 8 65 67 75 
+1:4:27->packet_dest_ID:9
+1:4:27->packet_type:ACK
+1:4:27->setting RX...
+1:4:27->Done.
+1:4:27->incomming packeage...
+1:4:27->Reading buffer:
+1:4:27->done.
+1:4:27->SNR:56 dB
+1:4:27->Rssi:-3 dBm
+1:4:27->clearing IRQ flags...
+1:4:27->done
+1:4:27->getting IRQ status...
+1:4:27->Done.
+1:4:27->Successful reset IRQ.
+1:4:27->7 8 76 69 67 0 15 7 
+1:4:27->packet_dest_ID:7
+1:4:27->packet_type:LEC
+1:4:27->setting RX...
+1:4:27->Done.
+1:4:27->incomming packeage...
+1:4:27->Reading buffer:
+1:4:27->done.
+1:4:27->SNR:58 dB
+1:4:27->Rssi:-111 dBm
+1:4:27->clearing IRQ flags...
+1:4:27->done
+1:4:27->getting IRQ status...
+1:4:27->Done.
+1:4:27->Successful reset IRQ.
+1:4:27->8 7 65 67 75 
+1:4:27->packet_dest_ID:8
+1:4:27->packet_type:ACK
+1:4:27->setting RX...
+1:4:27->Done.
+1:4:28->incomming packeage...
+1:4:28->Reading buffer:
+1:4:28->done.
+1:4:28->SNR:58 dB
+1:4:28->Rssi:-105 dBm
+1:4:28->clearing IRQ flags...
+1:4:28->done
+1:4:28->getting IRQ status...
+1:4:28->Done.
+1:4:28->Successful reset IRQ.
+1:4:28->6 7 76 69 67 0 15 8 
+1:4:28->packet_dest_ID:6
+1:4:28->packet_type:LEC
+1:4:28->setting RX...
+1:4:28->Done.
+1:4:29->incomming packeage...
+1:4:29->Reading buffer:
+1:4:29->done.
+1:4:29->SNR:58 dB
+1:4:29->Rssi:-94 dBm
+1:4:29->clearing IRQ flags...
+1:4:29->done
+1:4:29->getting IRQ status...
+1:4:29->Done.
+1:4:29->Successful reset IRQ.
+1:4:29->5 4 65 67 75 
+1:4:29->packet_dest_ID:5
+1:4:29->packet_type:ACK
+1:4:29->setting RX...
+1:4:29->Done.
+1:4:31->incomming packeage...
+1:4:31->Reading buffer:
+1:4:31->done.
+1:4:31->SNR:57 dB
+1:4:31->Rssi:-121 dBm
+1:4:31->clearing IRQ flags...
+1:4:31->done
+1:4:31->getting IRQ status...
+1:4:31->Done.
+1:4:31->Successful reset IRQ.
+1:4:31->3 2 65 67 75 
+1:4:31->packet_dest_ID:3
+1:4:31->packet_type:ACK
+1:4:31->setting RX...
+1:4:31->Done.
+1:4:31->incomming packeage...
+1:4:31->Reading buffer:
+1:4:31->done.
+1:4:31->SNR:57 dB
+1:4:31->Rssi:-122 dBm
+1:4:31->clearing IRQ flags...
+1:4:31->done
+1:4:31->getting IRQ status...
+1:4:31->Done.
+1:4:31->Successful reset IRQ.
+1:4:31->1 2 76 69 67 0 15 13 
+1:4:31->packet_dest_ID:1
+1:4:31->packet_type:LEC
+1:4:31->setting RX...
+1:4:31->Done.
+1:4:32->incomming packeage...
+1:4:32->Reading buffer:
+1:4:32->done.
+1:4:32->SNR:58 dB
+1:4:32->Rssi:-94 dBm
+1:4:32->clearing IRQ flags...
+1:4:32->done
+1:4:32->getting IRQ status...
+1:4:32->Done.
+1:4:32->Successful reset IRQ.
+1:4:32->2 1 65 67 75 
+1:4:32->packet_dest_ID:2
+1:4:32->packet_type:ACK
+1:4:32->setting RX...
+1:4:32->Done.
+1:4:32->incomming packeage...
+1:4:32->Reading buffer:
+1:4:32->done.
+1:4:32->SNR:58 dB
+1:4:32->Rssi:-100 dBm
+1:4:32->clearing IRQ flags...
+1:4:32->done
+1:4:32->getting IRQ status...
+1:4:32->Done.
+1:4:32->Successful reset IRQ.
+1:4:32->0 1 76 69 67 0 15 14 
+1:4:32->packet_dest_ID:0
+1:4:32->packet_type:LEC
+1:4:32->setting RX...
+1:4:32->Done.
+1:4:33->incomming packeage...
+1:4:33->Reading buffer:
+1:4:33->done.
+1:4:33->SNR:58 dB
+1:4:33->Rssi:-97 dBm
+1:4:33->clearing IRQ flags...
+1:4:33->done
+1:4:33->getting IRQ status...
+1:4:33->Done.
+1:4:33->Successful reset IRQ.
+1:4:33->0 1 65 67 75 
+1:4:33->packet_dest_ID:0
+1:4:33->packet_type:ACK
+1:4:33->setting RX...
+1:4:33->Done.
+1:4:34->incomming packeage...
+1:4:34->Reading buffer:
+1:4:34->done.
+1:4:34->SNR:58 dB
+1:4:34->Rssi:-97 dBm
+1:4:34->clearing IRQ flags...
+1:4:34->done
+1:4:34->getting IRQ status...
+1:4:34->Done.
+1:4:34->Successful reset IRQ.
+1:4:34->2 1 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:34->packet_dest_ID:2
+1:4:34->packet_type:LEB
+1:4:34->setting RX...
+1:4:34->Done.
+1:4:34->incomming packeage...
+1:4:34->Reading buffer:
+1:4:34->done.
+1:4:34->SNR:57 dB
+1:4:34->Rssi:-120 dBm
+1:4:34->clearing IRQ flags...
+1:4:34->done
+1:4:34->getting IRQ status...
+1:4:34->Done.
+1:4:34->Successful reset IRQ.
+1:4:34->1 2 65 67 75 
+1:4:34->packet_dest_ID:1
+1:4:34->packet_type:ACK
+1:4:34->setting RX...
+1:4:34->Done.
+1:4:35->incomming packeage...
+1:4:35->Reading buffer:
+1:4:35->done.
+1:4:35->SNR:57 dB
+1:4:35->Rssi:-120 dBm
+1:4:35->clearing IRQ flags...
+1:4:35->done
+1:4:35->getting IRQ status...
+1:4:35->Done.
+1:4:35->Successful reset IRQ.
+1:4:35->3 2 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:35->packet_dest_ID:3
+1:4:35->packet_type:LEB
+1:4:35->setting RX...
+1:4:35->Done.
+1:4:36->incomming packeage...
+1:4:36->Reading buffer:
+1:4:36->done.
+1:4:36->SNR:58 dB
+1:4:36->Rssi:-98 dBm
+1:4:36->clearing IRQ flags...
+1:4:36->done
+1:4:36->getting IRQ status...
+1:4:36->Done.
+1:4:36->Successful reset IRQ.
+1:4:36->3 4 65 67 75 
+1:4:36->packet_dest_ID:3
+1:4:36->packet_type:ACK
+1:4:36->setting RX...
+1:4:36->Done.
+1:4:37->incomming packeage...
+1:4:37->Reading buffer:
+1:4:37->done.
+1:4:37->SNR:58 dB
+1:4:37->Rssi:-96 dBm
+1:4:37->clearing IRQ flags...
+1:4:37->done
+1:4:37->getting IRQ status...
+1:4:37->Done.
+1:4:37->Successful reset IRQ.
+1:4:37->5 4 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:37->packet_dest_ID:5
+1:4:37->packet_type:LEB
+1:4:37->setting RX...
+1:4:37->Done.
+1:4:40->incomming packeage...
+1:4:40->Reading buffer:
+1:4:40->done.
+1:4:40->SNR:57 dB
+1:4:40->Rssi:-110 dBm
+1:4:40->clearing IRQ flags...
+1:4:40->done
+1:4:40->getting IRQ status...
+1:4:40->Done.
+1:4:40->Successful reset IRQ.
+1:4:40->7 8 65 67 75 
+1:4:40->packet_dest_ID:7
+1:4:40->packet_type:ACK
+1:4:40->setting RX...
+1:4:40->Done.
+1:4:40->incomming packeage...
+1:4:40->Reading buffer:
+1:4:40->done.
+1:4:40->SNR:57 dB
+1:4:40->Rssi:-110 dBm
+1:4:40->clearing IRQ flags...
+1:4:40->done
+1:4:40->getting IRQ status...
+1:4:40->Done.
+1:4:40->Successful reset IRQ.
+1:4:40->9 8 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:40->packet_dest_ID:9
+1:4:40->packet_type:LEB
+1:4:40->setting RX...
+1:4:40->Done.
+1:4:41->incomming packeage...
+1:4:41->Reading buffer:
+1:4:41->done.
+1:4:41->SNR:57 dB
+1:4:41->Rssi:-120 dBm
+1:4:41->clearing IRQ flags...
+1:4:41->done
+1:4:41->getting IRQ status...
+1:4:41->Done.
+1:4:41->Successful reset IRQ.
+1:4:41->8 9 65 67 75 
+1:4:41->packet_dest_ID:8
+1:4:41->packet_type:ACK
+1:4:41->setting RX...
+1:4:41->Done.
+1:4:41->incomming packeage...
+1:4:41->Reading buffer:
+1:4:41->done.
+1:4:41->SNR:57 dB
+1:4:41->Rssi:-120 dBm
+1:4:41->clearing IRQ flags...
+1:4:41->done
+1:4:41->getting IRQ status...
+1:4:41->Done.
+1:4:41->Successful reset IRQ.
+1:4:41->10 9 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:41->packet_dest_ID:10
+1:4:41->packet_type:LEB
+1:4:41->setting RX...
+1:4:41->Done.
+1:4:42->incomming packeage...
+1:4:42->Reading buffer:
+1:4:42->done.
+1:4:42->SNR:57 dB
+1:4:42->Rssi:-117 dBm
+1:4:42->clearing IRQ flags...
+1:4:42->done
+1:4:42->getting IRQ status...
+1:4:42->Done.
+1:4:42->Successful reset IRQ.
+1:4:42->9 10 65 67 75 
+1:4:42->packet_dest_ID:9
+1:4:42->packet_type:ACK
+1:4:42->setting RX...
+1:4:42->Done.
+1:4:42->incomming packeage...
+1:4:42->Reading buffer:
+1:4:42->done.
+1:4:42->SNR:57 dB
+1:4:42->Rssi:-117 dBm
+1:4:42->clearing IRQ flags...
+1:4:42->done
+1:4:42->getting IRQ status...
+1:4:42->Done.
+1:4:42->Successful reset IRQ.
+1:4:42->11 10 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:42->packet_dest_ID:11
+1:4:42->packet_type:LEB
+1:4:42->setting RX...
+1:4:42->Done.
+1:4:42->incomming packeage...
+1:4:42->Reading buffer:
+1:4:42->done.
+1:4:42->SNR:57 dB
+1:4:42->Rssi:-112 dBm
+1:4:42->clearing IRQ flags...
+1:4:42->done
+1:4:42->getting IRQ status...
+1:4:42->Done.
+1:4:42->Successful reset IRQ.
+1:4:42->10 11 65 67 75 
+1:4:42->packet_dest_ID:10
+1:4:42->packet_type:ACK
+1:4:42->setting RX...
+1:4:42->Done.
+1:4:43->incomming packeage...
+1:4:43->Reading buffer:
+1:4:43->done.
+1:4:43->SNR:57 dB
+1:4:43->Rssi:-112 dBm
+1:4:43->clearing IRQ flags...
+1:4:43->done
+1:4:43->getting IRQ status...
+1:4:43->Done.
+1:4:43->Successful reset IRQ.
+1:4:43->12 11 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:43->packet_dest_ID:12
+1:4:43->packet_type:LEB
+1:4:43->setting RX...
+1:4:43->Done.
+1:4:43->incomming packeage...
+1:4:43->Reading buffer:
+1:4:43->done.
+1:4:43->SNR:57 dB
+1:4:43->Rssi:-116 dBm
+1:4:43->clearing IRQ flags...
+1:4:43->done
+1:4:43->getting IRQ status...
+1:4:43->Done.
+1:4:43->Successful reset IRQ.
+1:4:43->11 12 65 67 75 
+1:4:43->packet_dest_ID:11
+1:4:43->packet_type:ACK
+1:4:43->setting RX...
+1:4:43->Done.
+1:4:44->incomming packeage...
+1:4:44->Reading buffer:
+1:4:44->done.
+1:4:44->SNR:57 dB
+1:4:44->Rssi:-115 dBm
+1:4:44->clearing IRQ flags...
+1:4:44->done
+1:4:44->getting IRQ status...
+1:4:44->Done.
+1:4:44->Successful reset IRQ.
+1:4:44->13 12 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:44->packet_dest_ID:13
+1:4:44->packet_type:LEB
+1:4:44->setting RX...
+1:4:44->Done.
+1:4:45->incomming packeage...
+1:4:45->Reading buffer:
+1:4:45->done.
+1:4:45->SNR:58 dB
+1:4:45->Rssi:-98 dBm
+1:4:45->clearing IRQ flags...
+1:4:45->done
+1:4:45->getting IRQ status...
+1:4:45->Done.
+1:4:45->Successful reset IRQ.
+1:4:45->13 14 65 67 75 
+1:4:45->packet_dest_ID:13
+1:4:45->packet_type:ACK
+1:4:45->setting RX...
+1:4:45->Done.
+1:4:46->incomming packeage...
+1:4:46->Reading buffer:
+1:4:46->done.
+1:4:46->SNR:58 dB
+1:4:46->Rssi:-97 dBm
+1:4:46->clearing IRQ flags...
+1:4:46->done
+1:4:46->getting IRQ status...
+1:4:46->Done.
+1:4:46->Successful reset IRQ.
+1:4:46->15 14 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:46->packet_dest_ID:15
+1:4:46->packet_type:LEB
+1:4:46->setting RX...
+1:4:46->Done.
+1:4:48->incomming packeage...
+1:4:48->Reading buffer:
+1:4:48->done.
+1:4:48->SNR:58 dB
+1:4:48->Rssi:-99 dBm
+1:4:48->clearing IRQ flags...
+1:4:48->done
+1:4:48->getting IRQ status...
+1:4:48->Done.
+1:4:48->Successful reset IRQ.
+1:4:48->15 14 76 69 66 0 15 15 123 20 174 71 239 27 67 64 143 194 245 40 140 129 85 64 0 0 0 0 0 0 0 
+1:4:48->packet_dest_ID:15
+1:4:48->packet_type:LEB
+1:4:48->setting RX...
+1:4:48->Done.
+1:5:19->send configuration:
+1:5:19->ID:15
+1:5:19->Destination:14
+1:5:20->incomming packeage...
+1:5:20->get configure reply:
+1:5:20->ID:15
+1:5:20->DEST:14
+1:5:23->send configuration:
+1:5:23->ID:15
+1:5:23->Destination:14
+1:5:23->incomming packeage...
+1:5:23->get configure reply:
+1:5:23->ID:15
+1:5:23->DEST:14
+1:5:38->send long echo to 0
+1:5:39->incomming packeage...
+1:5:39->Reading buffer:
+1:5:39->done.
+1:5:39->SNR:58 dB
+1:5:39->Rssi:-105 dBm
+1:5:39->clearing IRQ flags...
+1:5:39->done
+1:5:39->getting IRQ status...
+1:5:39->Done.
+1:5:39->Successful reset IRQ.
+1:5:39->14 15 76 69 67 0 15 0 
+1:5:39->packet_dest_ID:14
+1:5:39->packet_type:LEC
+1:5:39->setting RX...
+1:5:39->Done.
+1:5:39->incomming packeage...
+1:5:39->Reading buffer:
+1:5:39->done.
+1:5:39->SNR:58 dB
+1:5:39->Rssi:-102 dBm
+1:5:39->clearing IRQ flags...
+1:5:39->done
+1:5:39->getting IRQ status...
+1:5:39->Done.
+1:5:39->Successful reset IRQ.
+1:5:39->15 14 65 67 75 
+1:5:39->packet_dest_ID:15
+1:5:39->packet_type:ACK
+1:5:39->setting RX...
+1:5:39->Done.
+1:5:39->incomming packeage...
+1:5:39->Reading buffer:
+1:5:39->done.
+1:5:39->SNR:58 dB
+1:5:39->Rssi:-106 dBm
+1:5:39->clearing IRQ flags...
+1:5:39->done
+1:5:39->getting IRQ status...
+1:5:39->Done.
+1:5:39->Successful reset IRQ.
+1:5:39->13 14 76 69 67 0 15 1 
+1:5:39->packet_dest_ID:13
+1:5:39->packet_type:LEC
+1:5:39->setting RX...
+1:5:39->Done.
+1:5:40->incomming packeage...
+1:5:40->Reading buffer:
+1:5:40->done.
+1:5:40->SNR:57 dB
+1:5:40->Rssi:-121 dBm
+1:5:40->clearing IRQ flags...
+1:5:40->done
+1:5:40->getting IRQ status...
+1:5:40->Done.
+1:5:40->Successful reset IRQ.
+1:5:40->13 12 65 67 75 
+1:5:40->packet_dest_ID:13
+1:5:40->packet_type:ACK
+1:5:40->setting RX...
+1:5:40->Done.
+1:5:41->incomming packeage...
+1:5:41->Reading buffer:
+1:5:41->done.
+1:5:41->SNR:57 dB
+1:5:41->Rssi:-119 dBm
+1:5:41->clearing IRQ flags...
+1:5:41->done
+1:5:41->getting IRQ status...
+1:5:41->Done.
+1:5:41->Successful reset IRQ.
+1:5:41->11 12 76 69 67 0 15 3 
+1:5:41->packet_dest_ID:11
+1:5:41->packet_type:LEC
+1:5:41->setting RX...
+1:5:41->Done.
+1:5:41->incomming packeage...
+1:5:41->Reading buffer:
+1:5:41->done.
+1:5:41->SNR:58 dB
+1:5:41->Rssi:-106 dBm
+1:5:41->clearing IRQ flags...
+1:5:41->done
+1:5:41->getting IRQ status...
+1:5:41->Done.
+1:5:41->Successful reset IRQ.
+1:5:41->12 11 65 67 75 
+1:5:41->packet_dest_ID:12
+1:5:41->packet_type:ACK
+1:5:41->setting RX...
+1:5:41->Done.
+1:5:41->incomming packeage...
+1:5:41->Reading buffer:
+1:5:41->done.
+1:5:41->SNR:57 dB
+1:5:41->Rssi:-110 dBm
+1:5:41->clearing IRQ flags...
+1:5:41->done
+1:5:41->getting IRQ status...
+1:5:41->Done.
+1:5:41->Successful reset IRQ.
+1:5:42->10 11 76 69 67 0 15 4 
+1:5:42->packet_dest_ID:10
+1:5:42->packet_type:LEC
+1:5:42->setting RX...
+1:5:42->Done.
+1:5:42->incomming packeage...
+1:5:42->Reading buffer:
+1:5:42->done.
+1:5:42->SNR:57 dB
+1:5:42->Rssi:-114 dBm
+1:5:42->clearing IRQ flags...
+1:5:42->done
+1:5:42->getting IRQ status...
+1:5:42->Done.
+1:5:42->Successful reset IRQ.
+1:5:42->11 10 65 67 75 
+1:5:42->packet_dest_ID:11
+1:5:42->packet_type:ACK
+1:5:42->setting RX...
+1:5:42->Done.
+1:5:42->incomming packeage...
+1:5:42->Reading buffer:
+1:5:42->done.
+1:5:42->SNR:57 dB
+1:5:42->Rssi:-113 dBm
+1:5:42->clearing IRQ flags...
+1:5:42->done
+1:5:42->getting IRQ status...
+1:5:42->Done.
+1:5:42->Successful reset IRQ.
+1:5:42->9 10 76 69 67 0 15 5 
+1:5:42->packet_dest_ID:9
+1:5:42->packet_type:LEC
+1:5:42->setting RX...
+1:5:42->Done.
+1:5:43->incomming packeage...
+1:5:43->Reading buffer:
+1:5:43->done.
+1:5:43->SNR:57 dB
+1:5:43->Rssi:-117 dBm
+1:5:43->clearing IRQ flags...
+1:5:43->done
+1:5:43->getting IRQ status...
+1:5:43->Done.
+1:5:43->Successful reset IRQ.
+1:5:43->10 9 65 67 75 
+1:5:43->packet_dest_ID:10
+1:5:43->packet_type:ACK
+1:5:43->setting RX...
+1:5:43->Done.
+1:5:43->incomming packeage...
+1:5:43->Reading buffer:
+1:5:43->done.
+1:5:43->SNR:57 dB
+1:5:43->Rssi:-117 dBm
+1:5:43->clearing IRQ flags...
+1:5:43->done
+1:5:43->getting IRQ status...
+1:5:43->Done.
+1:5:43->Successful reset IRQ.
+1:5:43->8 9 76 69 67 0 15 6 
+1:5:43->packet_dest_ID:8
+1:5:43->packet_type:LEC
+1:5:43->setting RX...
+1:5:43->Done.
+1:5:43->incomming packeage...
+1:5:43->Reading buffer:
+1:5:43->done.
+1:5:43->SNR:57 dB
+1:5:43->Rssi:-107 dBm
+1:5:43->clearing IRQ flags...
+1:5:43->done
+1:5:43->getting IRQ status...
+1:5:43->Done.
+1:5:43->Successful reset IRQ.
+1:5:43->9 8 65 67 75 
+1:5:43->packet_dest_ID:9
+1:5:43->packet_type:ACK
+1:5:43->setting RX...
+1:5:43->Done.
+1:5:44->incomming packeage...
+1:5:44->Reading buffer:
+1:5:44->done.
+1:5:44->SNR:57 dB
+1:5:44->Rssi:-111 dBm
+1:5:44->clearing IRQ flags...
+1:5:44->done
+1:5:44->getting IRQ status...
+1:5:44->Done.
+1:5:44->Successful reset IRQ.
+1:5:44->7 8 76 69 67 0 15 7 
+1:5:44->packet_dest_ID:7
+1:5:44->packet_type:LEC
+1:5:44->setting RX...
+1:5:44->Done.
+1:5:46->incomming packeage...
+1:5:46->Reading buffer:
+1:5:46->done.
+1:5:46->SNR:58 dB
+1:5:46->Rssi:-98 dBm
+1:5:46->clearing IRQ flags...
+1:5:46->done
+1:5:46->getting IRQ status...
+1:5:46->Done.
+1:5:46->Successful reset IRQ.
+1:5:46->5 4 65 67 75 
+1:5:46->packet_dest_ID:5
+1:5:46->packet_type:ACK
+1:5:46->setting RX...
+1:5:46->Done.
+1:5:47->incomming packeage...
+1:5:47->Reading buffer:
+1:5:47->done.
+1:5:47->SNR:58 dB
+1:5:47->Rssi:-96 dBm
+1:5:47->clearing IRQ flags...
+1:5:47->done
+1:5:47->getting IRQ status...
+1:5:47->Done.
+1:5:47->Successful reset IRQ.
+1:5:47->3 4 76 69 67 0 15 11 
+1:5:47->packet_dest_ID:3
+1:5:47->packet_type:LEC
+1:5:47->setting RX...
+1:5:47->Done.
+1:5:48->incomming packeage...
+1:5:48->Reading buffer:
+1:5:48->done.
+1:5:48->SNR:57 dB
+1:5:48->Rssi:-118 dBm
+1:5:48->clearing IRQ flags...
+1:5:48->done
+1:5:48->getting IRQ status...
+1:5:48->Done.
+1:5:48->Successful reset IRQ.
+1:5:48->3 2 65 67 75 
+1:5:48->packet_dest_ID:3
+1:5:48->packet_type:ACK
+1:5:48->setting RX...
+1:5:48->Done.
+1:5:48->incomming packeage...
+1:5:48->Reading buffer:
+1:5:48->done.
+1:5:48->SNR:57 dB
+1:5:48->Rssi:-118 dBm
+1:5:48->clearing IRQ flags...
+1:5:48->done
+1:5:48->getting IRQ status...
+1:5:48->Done.
+1:5:48->Successful reset IRQ.
+1:5:48->1 2 76 69 67 0 15 13 
+1:5:48->packet_dest_ID:1
+1:5:48->packet_type:LEC
+1:5:48->setting RX...
+1:5:48->Done.
+1:5:48->incomming packeage...
+1:5:48->Reading buffer:
+1:5:48->done.
+1:5:48->SNR:57 dB
+1:5:48->Rssi:-109 dBm
+1:5:48->clearing IRQ flags...
+1:5:48->done
+1:5:48->getting IRQ status...
+1:5:48->Done.
+1:5:48->Successful reset IRQ.
+1:5:48->2 1 65 67 75 
+1:5:48->packet_dest_ID:2
+1:5:48->packet_type:ACK
+1:5:48->setting RX...
+1:5:48->Done.
+1:5:49->incomming packeage...
+1:5:49->Reading buffer:
+1:5:49->done.
+1:5:49->SNR:57 dB
+1:5:49->Rssi:-110 dBm
+1:5:49->clearing IRQ flags...
+1:5:49->done
+1:5:49->getting IRQ status...
+1:5:49->Done.
+1:5:49->Successful reset IRQ.
+1:5:49->0 1 76 69 67 0 15 14 
+1:5:49->packet_dest_ID:0
+1:5:49->packet_type:LEC
+1:5:49->setting RX...
+1:5:49->Done.
+1:5:50->incomming packeage...
+1:5:50->Reading buffer:
+1:5:50->done.
+1:5:50->SNR:57 dB
+1:5:50->Rssi:-113 dBm
+1:5:50->clearing IRQ flags...
+1:5:50->done
+1:5:50->getting IRQ status...
+1:5:50->Done.
+1:5:50->Successful reset IRQ.
+1:5:50->0 1 65 67 75 
+1:5:50->packet_dest_ID:0
+1:5:50->packet_type:ACK
+1:5:50->setting RX...
+1:5:50->Done.
+1:5:51->incomming packeage...
+1:5:51->Reading buffer:
+1:5:51->done.
+1:5:51->SNR:57 dB
+1:5:51->Rssi:-112 dBm
+1:5:51->clearing IRQ flags...
+1:5:51->done
+1:5:51->getting IRQ status...
+1:5:51->Done.
+1:5:51->Successful reset IRQ.
+1:5:51->2 1 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:51->packet_dest_ID:2
+1:5:51->packet_type:LEB
+1:5:51->setting RX...
+1:5:51->Done.
+1:5:51->incomming packeage...
+1:5:51->Reading buffer:
+1:5:51->done.
+1:5:51->SNR:56 dB
+1:5:51->Rssi:-124 dBm
+1:5:51->clearing IRQ flags...
+1:5:51->done
+1:5:51->getting IRQ status...
+1:5:51->Done.
+1:5:51->Successful reset IRQ.
+1:5:51->1 2 65 67 75 
+1:5:51->packet_dest_ID:1
+1:5:51->packet_type:ACK
+1:5:51->setting RX...
+1:5:51->Done.
+1:5:51->incomming packeage...
+1:5:51->Reading buffer:
+1:5:51->done.
+1:5:51->SNR:57 dB
+1:5:51->Rssi:-119 dBm
+1:5:51->clearing IRQ flags...
+1:5:51->done
+1:5:51->getting IRQ status...
+1:5:51->Done.
+1:5:51->Successful reset IRQ.
+1:5:51->3 2 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:51->packet_dest_ID:3
+1:5:51->packet_type:LEB
+1:5:51->setting RX...
+1:5:51->Done.
+1:5:53->incomming packeage...
+1:5:53->Reading buffer:
+1:5:53->done.
+1:5:53->SNR:58 dB
+1:5:53->Rssi:-96 dBm
+1:5:53->clearing IRQ flags...
+1:5:53->done
+1:5:53->getting IRQ status...
+1:5:53->Done.
+1:5:53->Successful reset IRQ.
+1:5:53->3 4 65 67 75 
+1:5:53->packet_dest_ID:3
+1:5:53->packet_type:ACK
+1:5:53->setting RX...
+1:5:53->Done.
+1:5:53->incomming packeage...
+1:5:53->Reading buffer:
+1:5:53->done.
+1:5:53->SNR:58 dB
+1:5:53->Rssi:-97 dBm
+1:5:53->clearing IRQ flags...
+1:5:53->done
+1:5:53->getting IRQ status...
+1:5:53->Done.
+1:5:53->Successful reset IRQ.
+1:5:53->5 4 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:53->packet_dest_ID:5
+1:5:53->packet_type:LEB
+1:5:53->setting RX...
+1:5:53->Done.
+1:5:56->incomming packeage...
+1:5:56->Reading buffer:
+1:5:56->done.
+1:5:56->SNR:58 dB
+1:5:56->Rssi:-100 dBm
+1:5:56->clearing IRQ flags...
+1:5:56->done
+1:5:56->getting IRQ status...
+1:5:56->Done.
+1:5:56->Successful reset IRQ.
+1:5:56->6 7 65 67 75 
+1:5:56->packet_dest_ID:6
+1:5:56->packet_type:ACK
+1:5:56->setting RX...
+1:5:56->Done.
+1:5:56->incomming packeage...
+1:5:56->Reading buffer:
+1:5:56->done.
+1:5:56->SNR:58 dB
+1:5:56->Rssi:-98 dBm
+1:5:56->clearing IRQ flags...
+1:5:56->done
+1:5:56->getting IRQ status...
+1:5:56->Done.
+1:5:56->Successful reset IRQ.
+1:5:56->8 7 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:56->packet_dest_ID:8
+1:5:56->packet_type:LEB
+1:5:56->setting RX...
+1:5:56->Done.
+1:5:57->incomming packeage...
+1:5:57->Reading buffer:
+1:5:57->done.
+1:5:57->SNR:56 dB
+1:5:57->Rssi:-124 dBm
+1:5:57->clearing IRQ flags...
+1:5:57->done
+1:5:57->getting IRQ status...
+1:5:57->Done.
+1:5:57->Successful reset IRQ.
+1:5:57->7 8 65 67 75 
+1:5:57->packet_dest_ID:7
+1:5:57->packet_type:ACK
+1:5:57->setting RX...
+1:5:57->Done.
+1:5:57->incomming packeage...
+1:5:57->Reading buffer:
+1:5:57->done.
+1:5:57->SNR:57 dB
+1:5:57->Rssi:-123 dBm
+1:5:57->clearing IRQ flags...
+1:5:57->done
+1:5:57->getting IRQ status...
+1:5:57->Done.
+1:5:57->Successful reset IRQ.
+1:5:57->9 8 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:57->packet_dest_ID:9
+1:5:57->packet_type:LEB
+1:5:57->setting RX...
+1:5:57->Done.
+1:5:57->incomming packeage...
+1:5:57->Reading buffer:
+1:5:57->done.
+1:5:57->SNR:57 dB
+1:5:57->Rssi:-123 dBm
+1:5:57->clearing IRQ flags...
+1:5:57->done
+1:5:57->getting IRQ status...
+1:5:57->Done.
+1:5:57->Successful reset IRQ.
+1:5:57->8 9 65 67 75 
+1:5:57->packet_dest_ID:8
+1:5:57->packet_type:ACK
+1:5:57->setting RX...
+1:5:57->Done.
+1:5:58->incomming packeage...
+1:5:58->Reading buffer:
+1:5:58->done.
+1:5:58->SNR:57 dB
+1:5:58->Rssi:-122 dBm
+1:5:58->clearing IRQ flags...
+1:5:58->done
+1:5:58->getting IRQ status...
+1:5:58->Done.
+1:5:58->Successful reset IRQ.
+1:5:58->10 9 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:58->packet_dest_ID:10
+1:5:58->packet_type:LEB
+1:5:58->setting RX...
+1:5:58->Done.
+1:5:58->incomming packeage...
+1:5:58->Reading buffer:
+1:5:58->done.
+1:5:58->SNR:57 dB
+1:5:58->Rssi:-116 dBm
+1:5:58->clearing IRQ flags...
+1:5:58->done
+1:5:58->getting IRQ status...
+1:5:58->Done.
+1:5:58->Successful reset IRQ.
+1:5:58->9 10 65 67 75 
+1:5:58->packet_dest_ID:9
+1:5:58->packet_type:ACK
+1:5:58->setting RX...
+1:5:58->Done.
+1:5:59->incomming packeage...
+1:5:59->Reading buffer:
+1:5:59->done.
+1:5:59->SNR:57 dB
+1:5:59->Rssi:-115 dBm
+1:5:59->clearing IRQ flags...
+1:5:59->done
+1:5:59->getting IRQ status...
+1:5:59->Done.
+1:5:59->Successful reset IRQ.
+1:5:59->11 10 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:5:59->packet_dest_ID:11
+1:5:59->packet_type:LEB
+1:5:59->setting RX...
+1:5:59->Done.
+1:5:59->incomming packeage...
+1:5:59->Reading buffer:
+1:5:59->done.
+1:5:59->SNR:57 dB
+1:5:59->Rssi:-110 dBm
+1:5:59->clearing IRQ flags...
+1:5:59->done
+1:5:59->getting IRQ status...
+1:5:59->Done.
+1:5:59->Successful reset IRQ.
+1:5:59->10 11 65 67 75 
+1:5:59->packet_dest_ID:10
+1:5:59->packet_type:ACK
+1:5:59->setting RX...
+1:5:59->Done.
+1:6:0->incomming packeage...
+1:6:0->Reading buffer:
+1:6:0->done.
+1:6:0->SNR:57 dB
+1:6:0->Rssi:-110 dBm
+1:6:0->clearing IRQ flags...
+1:6:0->done
+1:6:0->getting IRQ status...
+1:6:0->Done.
+1:6:0->Successful reset IRQ.
+1:6:0->12 11 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:6:0->packet_dest_ID:12
+1:6:0->packet_type:LEB
+1:6:0->setting RX...
+1:6:0->Done.
+1:6:0->incomming packeage...
+1:6:0->Reading buffer:
+1:6:0->done.
+1:6:0->SNR:57 dB
+1:6:0->Rssi:-123 dBm
+1:6:0->clearing IRQ flags...
+1:6:0->done
+1:6:0->getting IRQ status...
+1:6:0->Done.
+1:6:0->Successful reset IRQ.
+1:6:0->11 12 65 67 75 
+1:6:0->packet_dest_ID:11
+1:6:0->packet_type:ACK
+1:6:0->setting RX...
+1:6:0->Done.
+1:6:1->incomming packeage...
+1:6:1->Reading buffer:
+1:6:1->done.
+1:6:1->SNR:57 dB
+1:6:1->Rssi:-122 dBm
+1:6:1->clearing IRQ flags...
+1:6:1->done
+1:6:1->getting IRQ status...
+1:6:1->Done.
+1:6:1->Successful reset IRQ.
+1:6:1->13 12 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:6:1->packet_dest_ID:13
+1:6:1->packet_type:LEB
+1:6:1->setting RX...
+1:6:1->Done.
+1:6:2->incomming packeage...
+1:6:2->Reading buffer:
+1:6:2->done.
+1:6:2->SNR:58 dB
+1:6:2->Rssi:-104 dBm
+1:6:2->clearing IRQ flags...
+1:6:2->done
+1:6:2->getting IRQ status...
+1:6:2->Done.
+1:6:2->Successful reset IRQ.
+1:6:2->13 14 65 67 75 
+1:6:2->packet_dest_ID:13
+1:6:2->packet_type:ACK
+1:6:2->setting RX...
+1:6:2->Done.
+1:6:2->incomming packeage...
+1:6:2->Reading buffer:
+1:6:2->done.
+1:6:2->SNR:58 dB
+1:6:2->Rssi:-105 dBm
+1:6:2->clearing IRQ flags...
+1:6:2->done
+1:6:2->getting IRQ status...
+1:6:2->Done.
+1:6:2->Successful reset IRQ.
+1:6:2->15 14 76 69 66 0 15 15 31 133 235 81 238 27 67 64 61 10 215 163 140 129 85 64 0 0 0 0 0 0 0 
+1:6:2->packet_dest_ID:15
+1:6:2->packet_type:LEB
+1:6:2->setting RX...
+1:6:2->Done.
+1:6:3->incomming packeage...
+1:6:3->************************************
+1:6:3->get report from:15
+1:6:3->find node 0
+1:6:3->hop:15
+1:6:3->latitude:38.218210
+1:6:3->longtitude:86.024209
+1:6:3->Passed?:0
+1:6:3->max algorithm time:0:0:0
+1:6:3->mid algorithm time:0:0:0
+1:6:3->incomming packeage...
+1:6:3->Reading buffer:
+1:6:3->done.
+1:6:3->SNR:58 dB
+1:6:3->Rssi:-102 dBm
+1:6:3->clearing IRQ flags...
+1:6:3->done
+1:6:3->getting IRQ status...
+1:6:3->Done.
+1:6:3->Successful reset IRQ.
+1:6:3->14 15 65 67 75 
+1:6:3->packet_dest_ID:14
+1:6:3->packet_type:ACK
+1:6:3->setting RX...
+1:6:3->Done.
+1:6:25->send long echo to 0
+1:6:25->incomming packeage...
+1:6:25->Reading buffer:
+1:6:25->done.
+1:6:25->SNR:58 dB
+1:6:25->Rssi:-95 dBm
+1:6:25->clearing IRQ flags...
+1:6:25->done
+1:6:25->getting IRQ status...
+1:6:25->Done.
+1:6:25->Successful reset IRQ.
+1:6:25->14 15 76 69 67 0 15 0 
+1:6:25->packet_dest_ID:14
+1:6:25->packet_type:LEC
+1:6:25->setting RX...
+1:6:25->Done.
+1:6:25->incomming packeage...
+1:6:25->Reading buffer:
+1:6:25->done.
+1:6:25->SNR:58 dB
+1:6:25->Rssi:-96 dBm
+1:6:25->clearing IRQ flags...
+1:6:25->done
+1:6:25->getting IRQ status...
+1:6:25->Done.
+1:6:25->Successful reset IRQ.
+1:6:25->15 14 65 67 75 
+1:6:25->packet_dest_ID:15
+1:6:25->packet_type:ACK
+1:6:25->setting RX...
+1:6:25->Done.
+1:6:26->incomming packeage...
+1:6:26->Reading buffer:
+1:6:26->done.
+1:6:26->SNR:58 dB
+1:6:26->Rssi:-99 dBm
+1:6:26->clearing IRQ flags...
+1:6:26->done
+1:6:26->getting IRQ status...
+1:6:26->Done.
+1:6:26->Successful reset IRQ.
+1:6:26->13 14 76 69 67 0 15 1 
+1:6:26->packet_dest_ID:13
+1:6:26->packet_type:LEC
+1:6:26->setting RX...
+1:6:26->Done.
+1:6:27->incomming packeage...
+1:6:27->Reading buffer:
+1:6:27->done.
+1:6:27->SNR:57 dB
+1:6:27->Rssi:-121 dBm
+1:6:27->clearing IRQ flags...
+1:6:27->done
+1:6:27->getting IRQ status...
+1:6:27->Done.
+1:6:27->Successful reset IRQ.
+1:6:27->13 12 65 67 75 
+1:6:27->packet_dest_ID:13
+1:6:27->packet_type:ACK
+1:6:27->setting RX...
+1:6:27->Done.
+1:6:27->incomming packeage...
+1:6:27->Reading buffer:
+1:6:27->done.
+1:6:27->SNR:57 dB
+1:6:27->Rssi:-119 dBm
+1:6:27->clearing IRQ flags...
+1:6:27->done
+1:6:27->getting IRQ status...
+1:6:27->Done.
+1:6:27->Successful reset IRQ.
+1:6:27->11 12 76 69 67 0 15 3 
+1:6:27->packet_dest_ID:11
+1:6:27->packet_type:LEC
+1:6:27->setting RX...
+1:6:27->Done.
+1:6:27->incomming packeage...
+1:6:27->Reading buffer:
+1:6:27->done.
+1:6:27->SNR:57 dB
+1:6:27->Rssi:-114 dBm
+1:6:27->clearing IRQ flags...
+1:6:27->done
+1:6:27->getting IRQ status...
+1:6:27->Done.
+1:6:27->Successful reset IRQ.
+1:6:27->12 11 65 67 75 
+1:6:27->packet_dest_ID:12
+1:6:27->packet_type:ACK
+1:6:27->setting RX...
+1:6:27->Done.
+1:6:28->incomming packeage...
+1:6:28->Reading buffer:
+1:6:28->done.
+1:6:28->SNR:58 dB
+1:6:28->Rssi:-108 dBm
+1:6:28->clearing IRQ flags...
+1:6:28->done
+1:6:28->getting IRQ status...
+1:6:28->Done.
+1:6:28->Successful reset IRQ.
+1:6:28->10 11 76 69 67 0 15 4 
+1:6:28->packet_dest_ID:10
+1:6:28->packet_type:LEC
+1:6:28->setting RX...
+1:6:28->Done.
+1:6:28->incomming packeage...
+1:6:28->Reading buffer:
+1:6:28->done.
+1:6:28->SNR:57 dB
+1:6:28->Rssi:-112 dBm
+1:6:28->clearing IRQ flags...
+1:6:28->done
+1:6:28->getting IRQ status...
+1:6:28->Done.
+1:6:28->Successful reset IRQ.
+1:6:28->11 10 65 67 75 
+1:6:28->packet_dest_ID:11
+1:6:28->packet_type:ACK
+1:6:28->setting RX...
+1:6:28->Done.
+1:6:28->incomming packeage...
+1:6:28->Reading buffer:
+1:6:28->done.
+1:6:28->SNR:57 dB
+1:6:28->Rssi:-110 dBm
+1:6:28->clearing IRQ flags...
+1:6:28->done
+1:6:28->getting IRQ status...
+1:6:28->Done.
+1:6:28->Successful reset IRQ.
+1:6:28->9 10 76 69 67 0 15 5 
+1:6:28->packet_dest_ID:9
+1:6:28->packet_type:LEC
+1:6:28->setting RX...
+1:6:28->Done.
+1:6:29->incomming packeage...
+1:6:29->Reading buffer:
+1:6:29->done.
+1:6:29->SNR:56 dB
+1:6:29->Rssi:-126 dBm
+1:6:29->clearing IRQ flags...
+1:6:29->done
+1:6:29->getting IRQ status...
+1:6:29->Done.
+1:6:29->Successful reset IRQ.
+1:6:29->10 9 65 67 75 
+1:6:29->packet_dest_ID:10
+1:6:29->packet_type:ACK
+1:6:29->setting RX...
+1:6:29->Done.
+1:6:29->incomming packeage...
+1:6:29->Reading buffer:
+1:6:29->done.
+1:6:29->SNR:56 dB
+1:6:29->Rssi:-126 dBm
+1:6:29->clearing IRQ flags...
+1:6:29->done
+1:6:29->getting IRQ status...
+1:6:29->Done.
+1:6:29->Successful reset IRQ.
+1:6:29->8 9 76 69 67 0 15 6 
+1:6:29->packet_dest_ID:8
+1:6:29->packet_type:LEC
+1:6:29->setting RX...
+1:6:29->Done.
+1:6:30->incomming packeage...
+1:6:30->************************************
+1:6:30->get report from:254
+1:6:30->only made to:254
+1:6:30->hop:0
+1:6:30->latitude:38.218203
+1:6:30->longtitude:86.024199
+1:6:30->Passed?:0
+1:6:30->max algorithm time:0:0:0
+1:6:30->mid algorithm time:0:0:0
+1:6:30->incomming packeage...
+1:6:30->Reading buffer:
+1:6:30->done.
+1:6:30->SNR:57 dB
+1:6:30->Rssi:-109 dBm
+1:6:30->clearing IRQ flags...
+1:6:30->done
+1:6:30->getting IRQ status...
+1:6:30->Done.
+1:6:30->Successful reset IRQ.
+1:6:30->9 8 65 67 75 
+1:6:30->packet_dest_ID:9
+1:6:30->packet_type:ACK
+1:6:30->setting RX...
+1:6:30->Done.
+1:6:30->incomming packeage...
+1:6:30->Reading buffer:
+1:6:30->done.
+1:6:30->SNR:57 dB
+1:6:30->Rssi:-107 dBm
+1:6:30->clearing IRQ flags...
+1:6:30->done
+1:6:30->getting IRQ status...
+1:6:30->Done.
+1:6:30->Successful reset IRQ.
+1:6:30->7 8 76 69 67 0 15 7 
+1:6:30->packet_dest_ID:7
+1:6:30->packet_type:LEC
+1:6:30->setting RX...
+1:6:30->Done.
+1:6:30->incomming packeage...
+1:6:30->Reading buffer:
+1:6:30->done.
+1:6:30->SNR:58 dB
+1:6:30->Rssi:-91 dBm
+1:6:30->clearing IRQ flags...
+1:6:30->done
+1:6:30->getting IRQ status...
+1:6:30->Done.
+1:6:30->Successful reset IRQ.
+1:6:30->8 7 65 67 75 
+1:6:30->packet_dest_ID:8
+1:6:30->packet_type:ACK
+1:6:30->setting RX...
+1:6:30->Done.
+1:6:33->incomming packeage...
+1:6:33->Reading buffer:
+1:6:33->done.
+1:6:33->SNR:58 dB
+1:6:33->Rssi:-102 dBm
+1:6:33->clearing IRQ flags...
+1:6:33->done
+1:6:33->getting IRQ status...
+1:6:33->Done.
+1:6:33->Successful reset IRQ.
+1:6:33->5 4 65 67 75 
+1:6:33->packet_dest_ID:5
+1:6:33->packet_type:ACK
+1:6:33->setting RX...
+1:6:33->Done.
+1:6:33->incomming packeage...
+1:6:33->Reading buffer:
+1:6:33->done.
+1:6:33->SNR:58 dB
+1:6:33->Rssi:-102 dBm
+1:6:33->clearing IRQ flags...
+1:6:33->done
+1:6:33->getting IRQ status...
+1:6:33->Done.
+1:6:33->Successful reset IRQ.
+1:6:33->3 4 76 69 67 0 15 11 
+1:6:33->packet_dest_ID:3
+1:6:33->packet_type:LEC
+1:6:33->setting RX...
+1:6:33->Done.
+1:6:34->incomming packeage...
+1:6:34->Reading buffer:
+1:6:34->done.
+1:6:34->SNR:56 dB
+1:6:34->Rssi:-125 dBm
+1:6:34->clearing IRQ flags...
+1:6:34->done
+1:6:34->getting IRQ status...
+1:6:34->Done.
+1:6:34->Successful reset IRQ.
+1:6:34->3 2 65 67 75 
+1:6:34->packet_dest_ID:3
+1:6:34->packet_type:ACK
+1:6:34->setting RX...
+1:6:34->Done.
+1:6:34->incomming packeage...
+1:6:34->Reading buffer:
+1:6:34->done.
+1:6:34->SNR:56 dB
+1:6:34->Rssi:-125 dBm
+1:6:34->clearing IRQ flags...
+1:6:34->done
+1:6:34->getting IRQ status...
+1:6:34->Done.
+1:6:34->Successful reset IRQ.
+1:6:34->1 2 76 69 67 0 15 13 
+1:6:34->packet_dest_ID:1
+1:6:34->packet_type:LEC
+1:6:34->setting RX...
+1:6:34->Done.
+1:6:35->incomming packeage...
+1:6:35->Reading buffer:
+1:6:35->done.
+1:6:35->SNR:57 dB
+1:6:35->Rssi:-117 dBm
+1:6:35->clearing IRQ flags...
+1:6:35->done
+1:6:35->getting IRQ status...
+1:6:35->Done.
+1:6:35->Successful reset IRQ.
+1:6:35->2 1 65 67 75 
+1:6:35->packet_dest_ID:2
+1:6:35->packet_type:ACK
+1:6:35->setting RX...
+1:6:35->Done.
+1:6:35->incomming packeage...
+1:6:35->Reading buffer:
+1:6:35->done.
+1:6:35->SNR:57 dB
+1:6:35->Rssi:-118 dBm
+1:6:35->clearing IRQ flags...
+1:6:35->done
+1:6:35->getting IRQ status...
+1:6:35->Done.
+1:6:35->Successful reset IRQ.
+1:6:35->0 1 76 69 67 0 15 14 
+1:6:35->packet_dest_ID:0
+1:6:35->packet_type:LEC
+1:6:35->setting RX...
+1:6:35->Done.
+1:6:37->incomming packeage...
+1:6:37->Reading buffer:
+1:6:37->done.
+1:6:37->SNR:57 dB
+1:6:37->Rssi:-117 dBm
+1:6:37->clearing IRQ flags...
+1:6:37->done
+1:6:37->getting IRQ status...
+1:6:37->Done.
+1:6:37->Successful reset IRQ.
+1:6:37->0 1 76 69 67 0 15 14 
+1:6:37->packet_dest_ID:0
+1:6:37->packet_type:LEC
+1:6:37->setting RX...
+1:6:37->Done.
+1:6:40->incomming packeage...
+1:6:40->Reading buffer:
+1:6:40->done.
+1:6:40->SNR:57 dB
+1:6:40->Rssi:-115 dBm
+1:6:40->clearing IRQ flags...
+1:6:40->done
+1:6:40->getting IRQ status...
+1:6:40->Done.
+1:6:40->Successful reset IRQ.
+1:6:40->2 1 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:40->packet_dest_ID:2
+1:6:40->packet_type:LEB
+1:6:40->setting RX...
+1:6:40->Done.
+1:6:40->incomming packeage...
+1:6:40->Reading buffer:
+1:6:40->done.
+1:6:40->SNR:57 dB
+1:6:40->Rssi:-121 dBm
+1:6:40->clearing IRQ flags...
+1:6:40->done
+1:6:40->getting IRQ status...
+1:6:40->Done.
+1:6:40->Successful reset IRQ.
+1:6:40->1 2 65 67 75 
+1:6:40->packet_dest_ID:1
+1:6:40->packet_type:ACK
+1:6:40->setting RX...
+1:6:40->Done.
+1:6:41->incomming packeage...
+1:6:41->Reading buffer:
+1:6:41->done.
+1:6:41->SNR:57 dB
+1:6:41->Rssi:-121 dBm
+1:6:41->clearing IRQ flags...
+1:6:41->done
+1:6:41->getting IRQ status...
+1:6:41->Done.
+1:6:41->Successful reset IRQ.
+1:6:41->3 2 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:41->packet_dest_ID:3
+1:6:41->packet_type:LEB
+1:6:41->setting RX...
+1:6:41->Done.
+1:6:42->incomming packeage...
+1:6:42->Reading buffer:
+1:6:42->done.
+1:6:42->SNR:58 dB
+1:6:42->Rssi:-100 dBm
+1:6:42->clearing IRQ flags...
+1:6:42->done
+1:6:42->getting IRQ status...
+1:6:42->Done.
+1:6:42->Successful reset IRQ.
+1:6:42->3 4 65 67 75 
+1:6:42->packet_dest_ID:3
+1:6:42->packet_type:ACK
+1:6:42->setting RX...
+1:6:42->Done.
+1:6:42->incomming packeage...
+1:6:42->Reading buffer:
+1:6:42->done.
+1:6:42->SNR:58 dB
+1:6:42->Rssi:-98 dBm
+1:6:42->clearing IRQ flags...
+1:6:42->done
+1:6:42->getting IRQ status...
+1:6:42->Done.
+1:6:42->Successful reset IRQ.
+1:6:42->5 4 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:42->packet_dest_ID:5
+1:6:42->packet_type:LEB
+1:6:42->setting RX...
+1:6:42->Done.
+1:6:45->incomming packeage...
+1:6:45->Reading buffer:
+1:6:45->done.
+1:6:45->SNR:57 dB
+1:6:45->Rssi:-116 dBm
+1:6:45->clearing IRQ flags...
+1:6:45->done
+1:6:45->getting IRQ status...
+1:6:45->Done.
+1:6:45->Successful reset IRQ.
+1:6:45->6 7 65 67 75 
+1:6:45->packet_dest_ID:6
+1:6:45->packet_type:ACK
+1:6:45->setting RX...
+1:6:45->Done.
+1:6:45->incomming packeage...
+1:6:45->Reading buffer:
+1:6:45->done.
+1:6:45->SNR:58 dB
+1:6:45->Rssi:-88 dBm
+1:6:45->clearing IRQ flags...
+1:6:45->done
+1:6:45->getting IRQ status...
+1:6:45->Done.
+1:6:45->Successful reset IRQ.
+1:6:45->8 7 132 68 146 193 7 71 195 49 40 156 64 183 142 37 167 223 119 58 249 134 85 80 17 16 112 28 192 0 87 
+1:6:45->packet_dest_ID:8
+1:6:45->packet_type:�D�
+1:6:45->setting RX...
+1:6:45->Done.
+1:6:46->incomming packeage...
+1:6:46->Reading buffer:
+1:6:46->done.
+1:6:46->SNR:58 dB
+1:6:46->Rssi:-108 dBm
+1:6:46->clearing IRQ flags...
+1:6:46->done
+1:6:46->getting IRQ status...
+1:6:46->Done.
+1:6:46->Successful reset IRQ.
+1:6:46->7 8 65 67 75 
+1:6:46->packet_dest_ID:7
+1:6:46->packet_type:ACK
+1:6:46->setting RX...
+1:6:46->Done.
+1:6:46->incomming packeage...
+1:6:46->Reading buffer:
+1:6:46->done.
+1:6:46->SNR:58 dB
+1:6:46->Rssi:-109 dBm
+1:6:46->clearing IRQ flags...
+1:6:46->done
+1:6:46->getting IRQ status...
+1:6:46->Done.
+1:6:46->Successful reset IRQ.
+1:6:46->9 8 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:46->packet_dest_ID:9
+1:6:46->packet_type:LEB
+1:6:46->setting RX...
+1:6:46->Done.
+1:6:46->incomming packeage...
+1:6:46->Reading buffer:
+1:6:46->done.
+1:6:46->SNR:58 dB
+1:6:46->Rssi:-105 dBm
+1:6:46->clearing IRQ flags...
+1:6:46->done
+1:6:46->getting IRQ status...
+1:6:46->Done.
+1:6:46->Successful reset IRQ.
+1:6:46->8 9 65 67 75 
+1:6:46->packet_dest_ID:8
+1:6:46->packet_type:ACK
+1:6:46->setting RX...
+1:6:46->Done.
+1:6:47->incomming packeage...
+1:6:47->Reading buffer:
+1:6:47->done.
+1:6:47->SNR:58 dB
+1:6:47->Rssi:-90 dBm
+1:6:47->clearing IRQ flags...
+1:6:47->done
+1:6:47->getting IRQ status...
+1:6:47->Done.
+1:6:47->Successful reset IRQ.
+1:6:47->10 9 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:47->packet_dest_ID:10
+1:6:47->packet_type:LEB
+1:6:47->setting RX...
+1:6:47->Done.
+1:6:47->incomming packeage...
+1:6:47->Reading buffer:
+1:6:47->done.
+1:6:47->SNR:58 dB
+1:6:47->Rssi:-101 dBm
+1:6:47->clearing IRQ flags...
+1:6:47->done
+1:6:47->getting IRQ status...
+1:6:47->Done.
+1:6:47->Successful reset IRQ.
+1:6:47->9 10 65 67 75 
+1:6:47->packet_dest_ID:9
+1:6:47->packet_type:ACK
+1:6:47->setting RX...
+1:6:47->Done.
+1:6:48->incomming packeage...
+1:6:48->Reading buffer:
+1:6:48->done.
+1:6:48->SNR:58 dB
+1:6:48->Rssi:-105 dBm
+1:6:48->clearing IRQ flags...
+1:6:48->done
+1:6:48->getting IRQ status...
+1:6:48->Done.
+1:6:48->Successful reset IRQ.
+1:6:48->11 10 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:48->packet_dest_ID:11
+1:6:48->packet_type:LEB
+1:6:48->setting RX...
+1:6:48->Done.
+1:6:48->incomming packeage...
+1:6:48->Reading buffer:
+1:6:48->done.
+1:6:48->SNR:58 dB
+1:6:48->Rssi:-109 dBm
+1:6:48->clearing IRQ flags...
+1:6:48->done
+1:6:48->getting IRQ status...
+1:6:48->Done.
+1:6:48->Successful reset IRQ.
+1:6:48->10 11 65 67 75 
+1:6:48->packet_dest_ID:10
+1:6:48->packet_type:ACK
+1:6:48->setting RX...
+1:6:48->Done.
+1:6:49->incomming packeage...
+1:6:49->Reading buffer:
+1:6:49->done.
+1:6:49->SNR:57 dB
+1:6:49->Rssi:-108 dBm
+1:6:49->clearing IRQ flags...
+1:6:49->done
+1:6:49->getting IRQ status...
+1:6:49->Done.
+1:6:49->Successful reset IRQ.
+1:6:49->12 11 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:49->packet_dest_ID:12
+1:6:49->packet_type:LEB
+1:6:49->setting RX...
+1:6:49->Done.
+1:6:49->incomming packeage...
+1:6:49->Reading buffer:
+1:6:49->done.
+1:6:49->SNR:57 dB
+1:6:49->Rssi:-116 dBm
+1:6:49->clearing IRQ flags...
+1:6:49->done
+1:6:49->getting IRQ status...
+1:6:49->Done.
+1:6:49->Successful reset IRQ.
+1:6:49->11 12 65 67 75 
+1:6:49->packet_dest_ID:11
+1:6:49->packet_type:ACK
+1:6:49->setting RX...
+1:6:49->Done.
+1:6:50->incomming packeage...
+1:6:50->Reading buffer:
+1:6:50->done.
+1:6:50->SNR:57 dB
+1:6:50->Rssi:-116 dBm
+1:6:50->clearing IRQ flags...
+1:6:50->done
+1:6:50->getting IRQ status...
+1:6:50->Done.
+1:6:50->Successful reset IRQ.
+1:6:50->13 12 76 69 66 1 15 14 195 245 40 92 237 27 67 64 215 163 112 61 142 129 85 64 0 0 0 0 0 0 0 
+1:6:50->packet_dest_ID:13
+1:6:50->packet_type:LEB
+1:6:50->setting RX...
+1:6:50->Done.
+1:6:52->incomming packeage...
+1:6:52->************************************
+1:6:52->get report from:15
+1:6:52->only made to:1
+1:6:52->hop:14
+1:6:52->latitude:38.218181
+1:6:52->longtitude:86.024307
+1:6:52->Passed?:0
+1:6:52->max algorithm time:0:0:0
+1:6:52->mid algorithm time:0:0:0
+1:6:52->incomming packeage...
+1:6:52->Reading buffer:
+1:6:52->done.
+1:6:52->SNR:58 dB
+1:6:52->Rssi:-92 dBm
+1:6:52->clearing IRQ flags...
+1:6:52->done
+1:6:52->getting IRQ status...
+1:6:52->Done.
+1:6:52->Successful reset IRQ.
+1:6:52->14 234 175 77 75 
+1:6:52->packet_dest_ID:14
+1:6:52->packet_type:�MK
+1:6:52->setting RX...
+1:6:52->Done.
+1:7:18->send configuration:
+1:7:18->ID:0
+1:7:18->Destination:253
+1:7:18->incomming packeage...
+1:7:18->get configure reply:
+1:7:18->ID:0
+1:7:18->DEST:253
+1:7:48->send out DONE message

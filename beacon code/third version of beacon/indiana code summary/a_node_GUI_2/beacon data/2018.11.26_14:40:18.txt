@@ -1,0 +1,22 @@
+14:40:38->fetched data:
+************************************
+get report from:1
+find node 1
+hop:0
+latitude:0.000000
+longtitude:0.000000
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+14:41:21->fetched data:
+************************************
+get report from:2
+find node 2
+hop:0
+latitude:0.000000
+longtitude:0.000000
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+

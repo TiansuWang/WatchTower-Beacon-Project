@@ -1,0 +1,9 @@
+6:44:57->send configuration:
+6:44:57->ID:0
+6:44:57->Destination:253
+6:45:40->send configuration:
+6:45:40->ID:0
+6:45:40->Destination:253
+6:45:41->send configuration:
+6:45:41->ID:0
+6:45:41->Destination:253

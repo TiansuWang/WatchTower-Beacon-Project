@@ -1,0 +1,25 @@
+14:39:26->send configuration:
+14:39:26->ID:1
+14:39:26->Destination:0
+14:39:27->incomming packeage...
+14:39:27->get configure reply:
+14:39:27->ID:1
+14:39:27->DEST:0
+14:39:30->send configuration:
+14:39:30->ID:1
+14:39:30->Destination:0
+14:39:31->incomming packeage...
+14:39:31->get configure reply:
+14:39:31->ID:1
+14:39:31->DEST:0
+14:39:43->send long echo to 1
+14:39:44->incomming packeage...
+14:39:44->************************************
+14:39:44->get report from:1
+14:39:44->find node 1
+14:39:44->hop:0
+14:39:44->latitude:0.000000
+14:39:44->longtitude:0.000000
+14:39:44->Passed?:0
+14:39:44->max algorithm time:0:0:0
+14:39:44->mid algorithm time:0:0:0

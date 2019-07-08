@@ -1,0 +1,457 @@
+17:38:1->send configuration:
+17:38:1->ID:2
+17:38:1->Destination:1
+17:38:2->incomming packeage...
+17:38:2->get configure reply:
+17:38:2->ID:2
+17:38:2->DEST:1
+17:38:3->send configuration:
+17:38:3->ID:2
+17:38:3->Destination:1
+17:38:4->incomming packeage...
+17:38:4->get configure reply:
+17:38:4->ID:2
+17:38:4->DEST:1
+17:38:8->send echo
+17:38:8->120
+17:38:9->incomming packeage...
+17:38:9->echo success.
+17:38:9->GPS fix:0
+17:38:16->send long echo to 0
+17:38:19->incomming packeage...
+17:38:19->************************************
+17:38:19->get report from:2
+17:38:19->find node 0
+17:38:19->hop:2
+17:38:19->latitude:0.000000
+17:38:19->longtitude:0.000000
+17:38:19->Passed?:1
+17:38:19->max algorithm time:0:19:3
+17:38:19->mid algorithm time:0:21:18
+17:38:28->send out DONE message
+17:39:1->send configuration:
+17:39:1->ID:3
+17:39:1->Destination:2
+17:39:1->incomming packeage...
+17:39:1->get configure reply:
+17:39:1->ID:3
+17:39:1->DEST:2
+17:39:3->send configuration:
+17:39:3->ID:3
+17:39:3->Destination:2
+17:39:3->incomming packeage...
+17:39:3->get configure reply:
+17:39:3->ID:3
+17:39:3->DEST:2
+17:39:7->send echo
+17:39:7->120
+17:39:8->incomming packeage...
+17:39:8->echo success.
+17:39:8->GPS fix:0
+17:39:22->send out DONE message
+17:40:0->send configuration:
+17:40:0->ID:4
+17:40:0->Destination:3
+17:40:0->incomming packeage...
+17:40:0->get configure reply:
+17:40:0->ID:4
+17:40:0->DEST:3
+17:40:3->send echo
+17:40:3->121
+17:40:3->incomming packeage...
+17:40:3->echo success.
+17:40:3->GPS fix:0
+17:40:9->send out DONE message
+17:41:59->send configuration:
+17:41:59->ID:5
+17:41:59->Destination:4
+17:41:59->incomming packeage...
+17:41:59->get configure reply:
+17:41:59->ID:5
+17:41:59->DEST:4
+17:42:1->send echo
+17:42:1->120
+17:42:2->incomming packeage...
+17:42:2->echo success.
+17:42:2->GPS fix:0
+17:42:19->send out DONE message
+17:44:42->send configuration:
+17:44:42->ID:6
+17:44:42->Destination:5
+17:44:42->incomming packeage...
+17:44:42->get configure reply:
+17:44:42->ID:6
+17:44:42->DEST:5
+17:44:45->send configuration:
+17:44:45->ID:6
+17:44:45->Destination:5
+17:44:45->incomming packeage...
+17:44:45->get configure reply:
+17:44:45->ID:6
+17:44:45->DEST:5
+17:44:49->send echo
+17:44:49->121
+17:44:50->incomming packeage...
+17:44:50->echo success.
+17:44:50->GPS fix:0
+17:44:54->send out DONE message
+17:47:10->send configuration:
+17:47:10->ID:7
+17:47:10->Destination:6
+17:47:10->incomming packeage...
+17:47:10->get configure reply:
+17:47:10->ID:7
+17:47:10->DEST:6
+17:47:12->send configuration:
+17:47:12->ID:7
+17:47:12->Destination:6
+17:47:12->incomming packeage...
+17:47:12->get configure reply:
+17:47:12->ID:7
+17:47:12->DEST:6
+17:47:15->send echo
+17:47:15->120
+17:47:15->incomming packeage...
+17:47:15->echo success.
+17:47:15->GPS fix:0
+17:47:19->send long echo to 0
+17:47:31->incomming packeage...
+17:47:31->************************************
+17:47:31->get report from:7
+17:47:31->find node 0
+17:47:31->hop:7
+17:47:31->latitude:0.000000
+17:47:31->longtitude:0.000000
+17:47:31->Passed?:1
+17:47:31->max algorithm time:0:19:3
+17:47:31->mid algorithm time:0:21:18
+17:50:20->send out DONE message
+17:50:49->send configuration:
+17:50:49->ID:8
+17:50:49->Destination:7
+17:50:49->incomming packeage...
+17:50:49->get configure reply:
+17:50:49->ID:8
+17:50:49->DEST:7
+17:50:52->send configuration:
+17:50:52->ID:8
+17:50:52->Destination:7
+17:50:53->incomming packeage...
+17:50:53->get configure reply:
+17:50:53->ID:8
+17:50:53->DEST:7
+17:50:57->send echo
+17:50:57->120
+17:51:0->incomming packeage...
+17:51:0->echo failed.
+17:51:27->send echo
+17:51:27->120
+17:51:30->incomming packeage...
+17:51:30->echo failed.
+17:52:7->send configuration:
+17:52:7->ID:8
+17:52:7->Destination:7
+17:52:7->incomming packeage...
+17:52:7->get configure reply:
+17:52:7->ID:8
+17:52:7->DEST:7
+17:52:17->send configuration:
+17:52:17->ID:8
+17:52:17->Destination:7
+17:52:18->incomming packeage...
+17:52:18->get configure reply:
+17:52:18->ID:8
+17:52:18->DEST:7
+17:52:20->send echo
+17:52:21->121
+17:52:24->incomming packeage...
+17:52:24->echo failed.
+17:54:12->send configuration:
+17:54:12->ID:8
+17:54:12->Destination:7
+17:54:17->send configuration:
+17:54:17->ID:8
+17:54:17->Destination:7
+17:54:36->send configuration:
+17:54:36->ID:8
+17:54:36->Destination:7
+17:54:38->send configuration:
+17:54:38->ID:8
+17:54:38->Destination:7
+17:57:37->send configuration:
+17:57:37->ID:8
+17:57:37->Destination:7
+17:57:38->incomming packeage...
+17:57:38->get configure reply:
+17:57:38->ID:8
+17:57:38->DEST:7
+17:57:40->send configuration:
+17:57:40->ID:8
+17:57:40->Destination:7
+17:57:40->incomming packeage...
+17:57:40->get configure reply:
+17:57:40->ID:8
+17:57:40->DEST:7
+17:57:42->send echo
+17:57:42->121
+17:57:43->incomming packeage...
+17:57:43->echo success.
+17:57:43->GPS fix:0
+18:0:13->send out DONE message
+18:0:49->send configuration:
+18:0:49->ID:4
+18:0:49->Destination:3
+18:0:50->incomming packeage...
+18:0:50->get configure reply:
+18:0:50->ID:4
+18:0:50->DEST:3
+18:0:52->send configuration:
+18:0:52->ID:4
+18:0:52->Destination:3
+18:0:53->incomming packeage...
+18:0:53->get configure reply:
+18:0:53->ID:4
+18:0:53->DEST:3
+18:0:55->send echo
+18:0:55->120
+18:0:56->incomming packeage...
+18:0:56->echo success.
+18:0:56->GPS fix:0
+18:1:0->send out DONE message
+18:1:4->reconfigure 5
+18:1:4->incomming packeage...
+18:1:4->Unlock node 5 to reconfigure
+18:1:6->send echo
+18:1:7->121
+18:1:7->incomming packeage...
+18:1:7->echo success.
+18:1:7->GPS fix:0
+18:1:9->send out DONE message
+18:1:54->send configuration:
+18:1:54->ID:9
+18:1:54->Destination:8
+18:1:54->incomming packeage...
+18:1:54->get configure reply:
+18:1:54->ID:9
+18:1:54->DEST:8
+18:1:58->send echo
+18:1:58->120
+18:1:59->incomming packeage...
+18:1:59->echo success.
+18:1:59->GPS fix:0
+18:2:3->send long echo to 0
+18:2:17->incomming packeage...
+18:2:17->************************************
+18:2:17->get report from:9
+18:2:17->find node 0
+18:2:17->hop:9
+18:2:17->latitude:0.000000
+18:2:17->longtitude:0.000000
+18:2:17->Passed?:1
+18:2:17->max algorithm time:0:19:3
+18:2:17->mid algorithm time:0:21:18
+18:2:25->send out DONE message
+18:4:30->send configuration:
+18:4:30->ID:0
+18:4:30->Destination:253
+18:4:30->incomming packeage...
+18:4:30->get configure reply:
+18:4:30->ID:0
+18:4:30->DEST:253
+18:4:42->send configuration:
+18:4:42->ID:1
+18:4:42->Destination:0
+18:4:42->incomming packeage...
+18:4:42->get configure reply:
+18:4:42->ID:1
+18:4:42->DEST:0
+18:5:28->reconfigure 0
+18:5:28->incomming packeage...
+18:5:28->Unlock node 0 to reconfigure
+18:5:31->send long echo to 9
+18:5:45->incomming packeage...
+18:5:45->************************************
+18:5:45->get report from:0
+18:5:45->find node 9
+18:5:45->hop:9
+18:5:45->latitude:0.000000
+18:5:45->longtitude:0.000000
+18:5:45->Passed?:0
+18:5:45->max algorithm time:0:0:0
+18:5:45->mid algorithm time:0:0:0
+18:5:53->send out DONE message
+18:5:57->reconfigure 6
+18:5:58->incomming packeage...
+18:5:58->Unlock node 6 to reconfigure
+18:6:7->send long echo to 1
+18:6:15->incomming packeage...
+18:6:15->************************************
+18:6:15->get report from:6
+18:6:15->find node 1
+18:6:15->hop:5
+18:6:15->latitude:0.000000
+18:6:15->longtitude:0.000000
+18:6:15->Passed?:1
+18:6:15->max algorithm time:22:9:44
+18:6:15->mid algorithm time:22:11:58
+18:6:24->send out DONE message
+18:6:29->reconfigure 0
+18:6:30->incomming packeage...
+18:6:30->Unlock node 0 to reconfigure
+18:6:33->send long echo to 9
+18:6:48->incomming packeage...
+18:6:48->************************************
+18:6:48->get report from:0
+18:6:48->find node 9
+18:6:48->hop:9
+18:6:48->latitude:0.000000
+18:6:48->longtitude:0.000000
+18:6:48->Passed?:0
+18:6:48->max algorithm time:0:0:0
+18:6:48->mid algorithm time:0:0:0
+18:9:45->send long echo to 9
+18:9:59->incomming packeage...
+18:9:59->************************************
+18:9:59->get report from:0
+18:9:59->find node 9
+18:9:59->hop:9
+18:9:59->latitude:0.000000
+18:9:59->longtitude:0.000000
+18:9:59->Passed?:0
+18:9:59->max algorithm time:0:0:0
+18:9:59->mid algorithm time:0:0:0
+18:10:6->send out DONE message
+18:10:14->reconfigure 9
+18:10:14->incomming packeage...
+18:10:14->Unlock node 9 to reconfigure
+18:10:16->send long echo to 0
+18:10:31->incomming packeage...
+18:10:31->************************************
+18:10:31->get report from:9
+18:10:31->find node 0
+18:10:31->hop:9
+18:10:31->latitude:0.000000
+18:10:31->longtitude:0.000000
+18:10:31->Passed?:1
+18:10:31->max algorithm time:0:19:3
+18:10:31->mid algorithm time:0:21:18
+18:11:50->send out DONE message
+18:11:53->reconfigure 0
+18:11:54->incomming packeage...
+18:11:54->Unlock node 0 to reconfigure
+18:11:56->send long echo to 9
+18:12:11->incomming packeage...
+18:12:11->************************************
+18:12:11->get report from:0
+18:12:11->find node 9
+18:12:11->hop:9
+18:12:11->latitude:0.000000
+18:12:11->longtitude:0.000000
+18:12:11->Passed?:0
+18:12:11->max algorithm time:0:0:0
+18:12:11->mid algorithm time:0:0:0
+18:12:16->send long echo to 0
+18:12:17->incomming packeage...
+18:12:17->************************************
+18:12:17->get report from:0
+18:12:17->find node 0
+18:12:17->hop:9
+18:12:17->latitude:0.000000
+18:12:17->longtitude:0.000000
+18:12:17->Passed?:1
+18:12:17->max algorithm time:0:19:3
+18:12:17->mid algorithm time:0:21:18
+18:12:18->send long echo to 0
+18:12:19->incomming packeage...
+18:12:19->************************************
+18:12:19->get report from:0
+18:12:19->find node 0
+18:12:19->hop:9
+18:12:19->latitude:0.000000
+18:12:19->longtitude:0.000000
+18:12:19->Passed?:1
+18:12:19->max algorithm time:0:19:3
+18:12:19->mid algorithm time:0:21:18
+18:12:19->send long echo to 0
+18:12:20->incomming packeage...
+18:12:20->************************************
+18:12:20->get report from:0
+18:12:20->find node 0
+18:12:20->hop:9
+18:12:20->latitude:0.000000
+18:12:20->longtitude:0.000000
+18:12:20->Passed?:1
+18:12:20->max algorithm time:0:19:3
+18:12:20->mid algorithm time:0:21:18
+18:12:21->send long echo to 0
+18:12:21->incomming packeage...
+18:12:21->************************************
+18:12:21->get report from:0
+18:12:21->find node 0
+18:12:21->hop:9
+18:12:21->latitude:0.000000
+18:12:21->longtitude:0.000000
+18:12:21->Passed?:1
+18:12:21->max algorithm time:0:19:3
+18:12:21->mid algorithm time:0:21:18
+18:12:22->send long echo to 0
+18:12:22->incomming packeage...
+18:12:22->************************************
+18:12:22->get report from:0
+18:12:22->find node 0
+18:12:22->hop:9
+18:12:22->latitude:0.000000
+18:12:22->longtitude:0.000000
+18:12:22->Passed?:1
+18:12:22->max algorithm time:0:19:3
+18:12:22->mid algorithm time:0:21:18
+18:12:23->send long echo to 0
+18:12:24->incomming packeage...
+18:12:24->************************************
+18:12:24->get report from:0
+18:12:24->find node 0
+18:12:24->hop:9
+18:12:24->latitude:0.000000
+18:12:24->longtitude:0.000000
+18:12:24->Passed?:1
+18:12:24->max algorithm time:0:19:3
+18:12:24->mid algorithm time:0:21:18
+18:14:6->send out DONE message
+18:14:8->reconfigure 9
+18:14:9->incomming packeage...
+18:14:9->Unlock node 9 to reconfigure
+18:14:10->send long echo to 0
+18:14:25->incomming packeage...
+18:14:25->************************************
+18:14:25->get report from:9
+18:14:25->find node 0
+18:14:25->hop:9
+18:14:25->latitude:0.000000
+18:14:25->longtitude:0.000000
+18:14:25->Passed?:1
+18:14:25->max algorithm time:0:19:3
+18:14:25->mid algorithm time:0:21:18
+18:14:30->send long echo to 0
+18:14:30->send long echo to 0
+18:14:31->send long echo to 0
+18:14:45->incomming packeage...
+18:14:45->************************************
+18:14:45->get report from:9
+18:14:45->find node 0
+18:14:45->hop:9
+18:14:45->latitude:0.000000
+18:14:45->longtitude:0.000000
+18:14:45->Passed?:1
+18:14:45->max algorithm time:0:19:3
+18:14:45->mid algorithm time:0:21:18
+18:15:6->send long echo to 0
+18:15:21->incomming packeage...
+18:15:21->************************************
+18:15:21->get report from:9
+18:15:21->find node 0
+18:15:21->hop:9
+18:15:21->latitude:0.000000
+18:15:21->longtitude:0.000000
+18:15:21->Passed?:1
+18:15:21->max algorithm time:0:19:3
+18:15:21->mid algorithm time:0:21:18

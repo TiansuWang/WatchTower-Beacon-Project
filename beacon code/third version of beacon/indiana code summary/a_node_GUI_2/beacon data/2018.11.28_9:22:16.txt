@@ -1,0 +1,132 @@
+9:23:58->fetched data:
+************************************
+get report from:0
+find node 0
+hop:0
+latitude:0.000000
+longtitude:0.000000
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+9:32:32->fetched data:
+************************************
+get report from:0
+find node 0
+hop:0
+latitude:38.040701
+longtitude:86.020762
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+9:39:4->fetched data:
+************************************
+get report from:0
+find node 0
+hop:0
+latitude:38.021345
+longtitude:86.034619
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+9:47:49->fetched data:
+************************************
+get report from:0
+find node 0
+hop:0
+latitude:37.596973
+longtitude:86.031670
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+9:48:46->fetched data:
+************************************
+get report from:0
+find node 0
+hop:0
+latitude:37.596978
+longtitude:86.031572
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+9:50:19->fetched data:
+************************************
+get report from:0
+find node 0
+hop:0
+latitude:37.596992
+longtitude:86.031523
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+9:58:39->fetched data:
+************************************
+get report from:1
+find node 0
+hop:1
+latitude:37.596995
+longtitude:86.031533
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+10:0:47->fetched data:
+************************************
+get report from:2
+find node 0
+hop:2
+latitude:37.596995
+longtitude:86.031533
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+10:11:19->fetched data:
+************************************
+get report from:4
+find node 0
+hop:4
+latitude:37.597002
+longtitude:86.031533
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+10:18:44->fetched data:
+************************************
+get report from:5
+find node 0
+hop:5
+latitude:37.597007
+longtitude:86.031533
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+10:22:49->fetched data:
+************************************
+get report from:6
+find node 0
+hop:6
+latitude:37.597009
+longtitude:86.031533
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+
+10:26:36->fetched data:
+************************************
+get report from:8
+find node 0
+hop:8
+latitude:37.597012
+longtitude:86.031523
+Passed?:0
+max algorithm time:0:0:0
+mid algorithm time:0:0:0
+

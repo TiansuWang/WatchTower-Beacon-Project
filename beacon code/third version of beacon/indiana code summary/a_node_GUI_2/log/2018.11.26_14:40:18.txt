@@ -1,0 +1,107 @@
+14:40:27->send configuration:
+14:40:27->ID:1
+14:40:27->Destination:0
+14:40:28->incomming packeage...
+14:40:28->get configure reply:
+14:40:28->ID:1
+14:40:28->DEST:0
+14:40:29->send echo
+14:40:29->120
+14:40:30->incomming packeage...
+14:40:30->Reading buffer:
+14:40:30->done.
+14:40:30->SNR:58 dB
+14:40:30->Rssi:-92 dBm
+14:40:30->clearing IRQ flags...
+14:40:30->done
+14:40:30->getting IRQ status...
+14:40:30->Done.
+14:40:30->Successful reset IRQ.
+14:40:30->0 1 69 67 72 
+14:40:30->packet_dest_ID:0
+14:40:30->packet_type:ECH
+14:40:30->setting RX...
+14:40:30->Done.
+14:40:30->incomming packeage...
+14:40:30->Reading buffer:
+14:40:30->done.
+14:40:30->SNR:56 dB
+14:40:30->Rssi:-126 dBm
+14:40:30->clearing IRQ flags...
+14:40:30->done
+14:40:30->getting IRQ status...
+14:40:30->Done.
+14:40:30->Successful reset IRQ.
+14:40:30->1 0 66 65 67 0 
+14:40:30->packet_dest_ID:1
+14:40:30->packet_type:BAC
+14:40:30->setting RX...
+14:40:30->Done.
+14:40:30->incomming packeage...
+14:40:30->echo success.
+14:40:30->GPS fix:0
+14:40:38->send long echo to 1
+14:40:38->incomming packeage...
+14:40:38->************************************
+14:40:38->get report from:1
+14:40:38->find node 1
+14:40:38->hop:0
+14:40:38->latitude:0.000000
+14:40:38->longtitude:0.000000
+14:40:38->Passed?:0
+14:40:38->max algorithm time:0:0:0
+14:40:38->mid algorithm time:0:0:0
+14:40:56->send configuration:
+14:40:56->ID:2
+14:40:56->Destination:1
+14:40:57->incomming packeage...
+14:40:57->get configure reply:
+14:40:57->ID:2
+14:40:57->DEST:1
+14:41:0->send echo
+14:41:0->120
+14:41:0->incomming packeage...
+14:41:0->Reading buffer:
+14:41:0->done.
+14:41:0->SNR:58 dB
+14:41:0->Rssi:-94 dBm
+14:41:0->clearing IRQ flags...
+14:41:0->done
+14:41:0->getting IRQ status...
+14:41:0->Done.
+14:41:0->Successful reset IRQ.
+14:41:0->1 2 69 67 72 
+14:41:0->packet_dest_ID:1
+14:41:0->packet_type:ECH
+14:41:0->setting RX...
+14:41:0->Done.
+14:41:0->incomming packeage...
+14:41:0->Reading buffer:
+14:41:0->done.
+14:41:0->SNR:57 dB
+14:41:0->Rssi:-107 dBm
+14:41:0->clearing IRQ flags...
+14:41:0->done
+14:41:0->getting IRQ status...
+14:41:0->Done.
+14:41:0->Successful reset IRQ.
+14:41:0->2 1 66 65 67 1 
+14:41:0->packet_dest_ID:2
+14:41:0->packet_type:BAC
+14:41:0->setting RX...
+14:41:0->Done.
+14:41:0->incomming packeage...
+14:41:0->echo success.
+14:41:0->GPS fix:1
+14:41:20->send long echo to 2
+14:41:21->incomming packeage...
+14:41:21->************************************
+14:41:21->get report from:2
+14:41:21->find node 2
+14:41:21->hop:0
+14:41:21->latitude:0.000000
+14:41:21->longtitude:0.000000
+14:41:21->Passed?:0
+14:41:21->max algorithm time:0:0:0
+14:41:21->mid algorithm time:0:0:0
+14:41:27->send out DONE message
